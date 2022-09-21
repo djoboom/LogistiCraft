@@ -16,7 +16,7 @@
     },
     "requiredMemory": 0,
     "requiredPermGen": 0,
-    "isDev": false,
+    "isDev": true,
     "isPlayable": true,
     "assetsMapToResources": false,
     "checkForUpdates": true,
