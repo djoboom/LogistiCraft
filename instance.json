@@ -1,10 +1,10 @@
 {
   "launcher": {
-    "name": "LogistiCraft Alpha v0.0.1 Stable",
-    "pack": "LogistiCraft Alpha v0.0.1 Stable",
+    "name": "LogistiCraft",
+    "pack": "LogistiCraft",
     "packId": 0,
     "externalPackId": 0,
-    "version": "1.1",
+    "version": "0.0.2",
     "enableCurseForgeIntegration": true,
     "enableEditingMods": true,
     "loaderVersion": {
@@ -16,7 +16,7 @@
     },
     "requiredMemory": 0,
     "requiredPermGen": 0,
-    "isDev": false,
+    "isDev": true,
     "isPlayable": true,
     "assetsMapToResources": false,
     "checkForUpdates": true,
@@ -2899,12 +2899,223 @@
           "fileFingerprint": 2223673096,
           "modId": 32274
         }
+      },
+      {
+        "name": "CraftTweaker",
+        "version": "Unknown",
+        "optional": true,
+        "file": "CraftTweaker-1.16.5-7.1.2.512.jar",
+        "type": "mods",
+        "description": "CraftTweaker allows modpacks and servers to customize the game. With CraftTweaker you can change recipes, script events, add new commands and even change item properties!",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 239197,
+        "curseForgeFileId": 3986503,
+        "curseForgeProject": {
+          "id": 239197,
+          "name": "CraftTweaker",
+          "authors": [
+            {
+              "id": 33423,
+              "name": "Jaredlll08",
+              "url": "https://www.curseforge.com/members/10618648-jaredlll08?username=jaredlll08"
+            },
+            {
+              "id": 462012,
+              "name": "TheSilkMiner",
+              "url": "https://www.curseforge.com/members/100179583-thesilkminer?username=thesilkminer"
+            },
+            {
+              "id": 189961,
+              "name": "kindlich",
+              "url": "https://www.curseforge.com/members/17276820-kindlich?username=kindlich"
+            }
+          ],
+          "gameId": 432,
+          "summary": "CraftTweaker allows modpacks and servers to customize the game. With CraftTweaker you can change recipes, script events, add new commands and even change item properties!",
+          "categories": [
+            {
+              "name": "CraftTweaker",
+              "slug": "crafttweaker",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons/crafttweaker",
+              "dateModified": "2018-11-08T17:15:47.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 4773,
+              "iconUrl": "https://media.forgecdn.net/avatars/177/676/636772941470587416.png",
+              "parentCategoryId": 426,
+              "classId": 6
+            },
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "crafttweaker",
+          "isFeatured": false,
+          "dateModified": "2022-09-21T23:12:00.817Z",
+          "dateCreated": "2015-12-27T23:46:14.23Z",
+          "dateReleased": "2022-09-21T23:03:32.083Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/crafttweaker",
+            "wikiUrl": "https://docs.blamejared.com/",
+            "issuesUrl": "https://github.com/CraftTweaker/CraftTweaker/issues",
+            "sourceUrl": "https://github.com/CraftTweaker/CraftTweaker"
+          },
+          "logo": {
+            "id": 142108,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/142/108/256/256/636546700830987709.png",
+            "title": "636546700830987709.png",
+            "url": "https://media.forgecdn.net/avatars/142/108/636546700830987709.png",
+            "modId": 239197
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 4000120
+        },
+        "curseForgeFile": {
+          "id": 3986503,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "CraftTweaker-1.16.5-7.1.2.512.jar",
+          "fileName": "CraftTweaker-1.16.5-7.1.2.512.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2022-09-12T19:29:36.017Z",
+          "fileLength": 2495815,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 368718,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2990618668,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 482845703,
+              "name": "com"
+            },
+            {
+              "fingerprint": 3353559637,
+              "name": "StdLibs.jar"
+            },
+            {
+              "fingerprint": 2605748489,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2764382106,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 4222803943,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 1528353569,
+              "name": "org"
+            },
+            {
+              "fingerprint": 3017162987,
+              "name": "listeners"
+            },
+            {
+              "fingerprint": 1232162799,
+              "name": "live"
+            },
+            {
+              "fingerprint": 2669785907,
+              "name": "zsynthetic"
+            },
+            {
+              "fingerprint": 246018594,
+              "name": "stdlib"
+            },
+            {
+              "fingerprint": 1129230973,
+              "name": "compactio"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "3c5d6b656ce210c54a2ff0e517b53cf6bc349d27",
+              "algo": 1
+            },
+            {
+              "value": "db3d094ee0342a772de4785583fe983d",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000016.0000000005",
+              "gameVersion": "1.16.5",
+              "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+              "gameVersionName": "1.16.5"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000016.0000000004",
+              "gameVersion": "1.16.4",
+              "gameVersionReleaseDate": "2020-11-02T18:40:51.49Z",
+              "gameVersionName": "1.16.4"
+            }
+          ],
+          "gameVersions": [
+            "1.16.5",
+            "Forge",
+            "1.16.4"
+          ],
+          "fileFingerprint": 115802027,
+          "modId": 239197
+        }
       }
     ],
     "ignoredUpdates": [],
     "vanillaInstance": false,
-    "lastPlayed": 0,
-    "numPlays": 0
+    "lastPlayed": 1663802860945,
+    "numPlays": 2,
+    "lastExportName": "logisticraft",
+    "lastExportVersion": "0.0.2",
+    "lastExportAuthor": "Djoboom, Masterang3rfi",
+    "lastExportSaveTo": "D:\\Programs\\Atlauncher\\instances\\logisticraft"
   },
   "id": "1.16.5",
   "complianceLevel": 1,
@@ -3068,8 +3279,6 @@
   },
   "libraries": [
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:forge:1.16.5-36.2.34",
       "downloads": {
         "artifact": {
@@ -3081,8 +3290,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.ow2.asm:asm:9.1",
       "downloads": {
         "artifact": {
@@ -3094,8 +3301,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.ow2.asm:asm-commons:9.1",
       "downloads": {
         "artifact": {
@@ -3107,8 +3312,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.ow2.asm:asm-tree:9.1",
       "downloads": {
         "artifact": {
@@ -3120,8 +3323,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.ow2.asm:asm-util:9.1",
       "downloads": {
         "artifact": {
@@ -3133,8 +3334,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.ow2.asm:asm-analysis:9.1",
       "downloads": {
         "artifact": {
@@ -3146,8 +3345,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "cpw.mods:modlauncher:8.1.3",
       "downloads": {
         "artifact": {
@@ -3159,8 +3356,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "cpw.mods:grossjava9hacks:1.3.3",
       "downloads": {
         "artifact": {
@@ -3172,8 +3367,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:accesstransformers:3.0.1",
       "downloads": {
         "artifact": {
@@ -3185,8 +3378,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.antlr:antlr4-runtime:4.9.1",
       "downloads": {
         "artifact": {
@@ -3198,8 +3389,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:eventbus:4.0.0",
       "downloads": {
         "artifact": {
@@ -3211,8 +3400,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:forgespi:3.2.0",
       "downloads": {
         "artifact": {
@@ -3224,8 +3411,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:coremods:4.0.6",
       "downloads": {
         "artifact": {
@@ -3237,8 +3422,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:unsafe:0.2.0",
       "downloads": {
         "artifact": {
@@ -3250,8 +3433,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "com.electronwill.night-config:core:3.6.3",
       "downloads": {
         "artifact": {
@@ -3263,8 +3444,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "com.electronwill.night-config:toml:3.6.3",
       "downloads": {
         "artifact": {
@@ -3276,8 +3455,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.jline:jline:3.12.1",
       "downloads": {
         "artifact": {
@@ -3289,8 +3466,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.apache.maven:maven-artifact:3.6.3",
       "downloads": {
         "artifact": {
@@ -3302,8 +3477,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.jodah:typetools:0.8.3",
       "downloads": {
         "artifact": {
@@ -3315,8 +3488,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.apache.logging.log4j:log4j-api:2.16.0",
       "downloads": {
         "artifact": {
@@ -3328,8 +3499,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.apache.logging.log4j:log4j-core:2.16.0",
       "downloads": {
         "artifact": {
@@ -3341,8 +3510,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.apache.logging.log4j:log4j-slf4j18-impl:2.16.0",
       "downloads": {
         "artifact": {
@@ -3354,8 +3521,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecrell:terminalconsoleappender:1.2.0",
       "downloads": {
         "artifact": {
@@ -3367,8 +3532,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.sf.jopt-simple:jopt-simple:5.0.4",
       "downloads": {
         "artifact": {
@@ -3380,8 +3543,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "org.spongepowered:mixin:0.8.4",
       "downloads": {
         "artifact": {
@@ -3393,8 +3554,6 @@
       }
     },
     {
-      "clientreq": true,
-      "serverreq": true,
       "name": "net.minecraftforge:nashorn-core-compat:15.1.1.1",
       "downloads": {
         "artifact": {
