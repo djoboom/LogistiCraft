@@ -1,0 +1,4801 @@
+{
+  "launcher": {
+    "name": "LogistiCraft Alpha v0.0.1 Stable",
+    "pack": "LogistiCraft Alpha v0.0.1 Stable",
+    "packId": 0,
+    "externalPackId": 0,
+    "version": "1.1",
+    "enableCurseForgeIntegration": true,
+    "enableEditingMods": true,
+    "loaderVersion": {
+      "version": "36.2.34",
+      "rawVersion": "1.16.5-36.2.34",
+      "recommended": false,
+      "type": "Forge",
+      "downloadables": {}
+    },
+    "requiredMemory": 0,
+    "requiredPermGen": 0,
+    "isDev": false,
+    "isPlayable": true,
+    "assetsMapToResources": false,
+    "checkForUpdates": true,
+    "mods": [
+      {
+        "name": "Chisels & Bits - For Forge",
+        "version": "chiselsandbits-1.0.63.jar",
+        "optional": false,
+        "file": "chiselsandbits-1.0.63.jar",
+        "type": "mods",
+        "description": "Create endless custom decorations using in game materials.",
+        "disabled": false,
+        "userAdded": false,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 231095,
+        "curseForgeFileId": 3593643,
+        "curseForgeProject": {
+          "id": 231095,
+          "name": "Chisels & Bits - For Forge",
+          "authors": [
+            {
+              "id": 23557,
+              "name": "AlgorithmX2",
+              "url": "https://www.curseforge.com/members/10302014-algorithmx2?username=algorithmx2"
+            },
+            {
+              "id": 320281,
+              "name": "OrionOnline",
+              "url": "https://www.curseforge.com/members/20516580-oriononline?username=oriononline"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Create endless custom decorations using in game materials.",
+          "categories": [
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 424,
+          "classId": 6,
+          "slug": "chisels-bits",
+          "isFeatured": false,
+          "dateModified": "2022-08-29T20:31:30.57Z",
+          "dateCreated": "2015-05-31T00:40:29.83Z",
+          "dateReleased": "2022-08-29T20:27:29.753Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/chisels-bits",
+            "wikiUrl": "https://wiki.chisels-and-bits.com",
+            "issuesUrl": "https://github.com/AlgorithmX2/Chisels-and-Bits/issues",
+            "sourceUrl": "https://github.com/AlgorithmX2/Chisels-and-Bits"
+          },
+          "logo": {
+            "id": 472510,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/472/510/256/256/637762861825749025.png",
+            "title": "637762861825749025.png",
+            "url": "https://media.forgecdn.net/avatars/472/510/637762861825749025.png",
+            "modId": 231095
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 22708,
+              "description": "A Small pen for sheep created using the mod.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/22/708/310/172/sculp_screen11.png",
+              "title": "Custom Fence Design",
+              "url": "https://media.forgecdn.net/attachments/22/708/sculp_screen11.png",
+              "modId": 231095
+            },
+            {
+              "id": 22710,
+              "description": "The mod was used to create a custom sign that points toward the goal.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/22/710/310/172/sculp_screen12.png",
+              "title": "Find the way to your buried treasure with custom clues.",
+              "url": "https://media.forgecdn.net/attachments/22/710/sculp_screen12.png",
+              "modId": 231095
+            },
+            {
+              "id": 22711,
+              "description": "Custom Sign created from oak logs and oak planks, the text is written in coal.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/22/711/310/172/sculp_screen13.png",
+              "title": "A Custom Welcome sign make from oak trees over a path.",
+              "url": "https://media.forgecdn.net/attachments/22/711/sculp_screen13.png",
+              "modId": 231095
+            },
+            {
+              "id": 22857,
+              "description": "Using Chisels to Give Pillars some depth and some gold Lines to some obsidian.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/22/857/310/172/sculp_screen16.png",
+              "title": "Dressing up Quartz Pillars and Accents",
+              "url": "https://media.forgecdn.net/attachments/22/857/sculp_screen16.png",
+              "modId": 231095
+            },
+            {
+              "id": 22858,
+              "description": "Create Fancy Mounts for torches/levers or other things, as long as there is a flat surface in the middle of the chiseled block you can place item frames, levers or torches on them.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/22/858/310/172/sculp_screen17.png",
+              "title": "Custom Tall Torches",
+              "url": "https://media.forgecdn.net/attachments/22/858/sculp_screen17.png",
+              "modId": 231095
+            },
+            {
+              "id": 29674,
+              "description": "This is not generally recommended since it requires a good graphics card, however it demonstrates the flexibility.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/29/674/310/172/hmm.png",
+              "title": "Bricks made with Flat Colored Blocks",
+              "url": "https://media.forgecdn.net/attachments/29/674/hmm.png",
+              "modId": 231095
+            },
+            {
+              "id": 29784,
+              "description": "Created using vanilla materials, stone/planks/logs.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/29/784/310/172/bridge_2.png",
+              "title": "Custom Bridge (View 2)",
+              "url": "https://media.forgecdn.net/attachments/29/784/bridge_2.png",
+              "modId": 231095
+            },
+            {
+              "id": 30386,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/30/386/310/172/user_submission_windows.png",
+              "title": "Top Windows - by lightwolf41",
+              "url": "https://media.forgecdn.net/attachments/30/386/user_submission_windows.png",
+              "modId": 231095
+            },
+            {
+              "id": 22712,
+              "description": "Creating the wondrous smooth stone stairs.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/22/712/310/172/sculp_screen14.png",
+              "title": "Create Stairs with other materials",
+              "url": "https://media.forgecdn.net/attachments/22/712/sculp_screen14.png",
+              "modId": 231095
+            },
+            {
+              "id": 29782,
+              "description": "Using glowstone bits to create a custom light source.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/29/782/310/172/customlights.png",
+              "title": "Custom Light Sources.",
+              "url": "https://media.forgecdn.net/attachments/29/782/customlights.png",
+              "modId": 231095
+            },
+            {
+              "id": 30384,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/30/384/310/172/user_submission_twoer.png",
+              "title": "Tower - by lightwolf41",
+              "url": "https://media.forgecdn.net/attachments/30/384/user_submission_twoer.png",
+              "modId": 231095
+            },
+            {
+              "id": 22709,
+              "description": "Using the mod to create a stylized path of stones and a mild sloping roof.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/22/709/310/172/sculp_screen10.png",
+              "title": "Custom roof and Stone Bit Path",
+              "url": "https://media.forgecdn.net/attachments/22/709/sculp_screen10.png",
+              "modId": 231095
+            },
+            {
+              "id": 23001,
+              "description": "Use Glass or Stained Glass to create Custom Windows, and other glass works.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/23/1/310/172/sculp_screen18.png",
+              "title": "Custom Windows and More!",
+              "url": "https://media.forgecdn.net/attachments/23/1/sculp_screen18.png",
+              "modId": 231095
+            },
+            {
+              "id": 29910,
+              "description": "Blocks are red glowing blocks from Flat Colored Blocks.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/29/910/310/172/whydoikeepdoingthis.png",
+              "title": "Glowing Blocks to create Runes",
+              "url": "https://media.forgecdn.net/attachments/29/910/whydoikeepdoingthis.png",
+              "modId": 231095
+            },
+            {
+              "id": 30179,
+              "description": "Blocks Used: Polished Andesite, Cobblestone, Cyan Stained Clay, and Glowing Emerald from FCB.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/30/179/310/172/xykdhog.png",
+              "title": "Aztec Pillar Thing - By Rorax",
+              "url": "https://media.forgecdn.net/attachments/30/179/xykdhog.png",
+              "modId": 231095
+            },
+            {
+              "id": 213759,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/213/759/310/172/2017_07_21_12_04_37.png",
+              "title": "Stairs, work in progress - By trlababalan",
+              "url": "https://media.forgecdn.net/attachments/213/759/2017_07_21_12_04_37.png",
+              "modId": 231095
+            },
+            {
+              "id": 28927,
+              "description": "The logo was created with 3 types of wood, oak, spruce, and dark oak the darkest edge was done with coal. The tip was created with Prismarine and Dark Prismarine, Emerald and Diamond. it was checked against various backgrounds before picking Stone Brick.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/28/927/310/172/candb_logowork.png",
+              "title": "Creating the Chisels and Bits Logo",
+              "url": "https://media.forgecdn.net/attachments/28/927/candb_logowork.png",
+              "modId": 231095
+            },
+            {
+              "id": 197622,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/197/622/310/172/zq6igxt.jpg",
+              "title": "Gazebo - By idahodiscgolf",
+              "url": "https://media.forgecdn.net/attachments/197/622/zq6igxt.jpg",
+              "modId": 231095
+            },
+            {
+              "id": 22713,
+              "description": "A custom table made of oak logs, planks, and stone.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/22/713/310/172/sculp_screen15.png",
+              "title": "Tables to keep your fancy creations on.",
+              "url": "https://media.forgecdn.net/attachments/22/713/sculp_screen15.png",
+              "modId": 231095
+            },
+            {
+              "id": 28892,
+              "description": "A catwalk made of iron.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/28/892/310/172/iron_catwalk.png",
+              "title": "A Custom Catwalk",
+              "url": "https://media.forgecdn.net/attachments/28/892/iron_catwalk.png",
+              "modId": 231095
+            },
+            {
+              "id": 28890,
+              "description": "Using Thaumcraft Blocks to create tables and floor pieces.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/28/890/310/172/tc_table.png",
+              "title": "Create Designs Using Compatiable Mod Blocks",
+              "url": "https://media.forgecdn.net/attachments/28/890/tc_table.png",
+              "modId": 231095
+            },
+            {
+              "id": 30385,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/30/385/310/172/user_submission_window.png",
+              "title": "Stained Glass - by lightwolf41",
+              "url": "https://media.forgecdn.net/attachments/30/385/user_submission_window.png",
+              "modId": 231095
+            },
+            {
+              "id": 29783,
+              "description": "Created using vanilla materials, stone/planks/logs.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/29/783/310/172/bridge_1.png",
+              "title": "Custom Bridge",
+              "url": "https://media.forgecdn.net/attachments/29/783/bridge_1.png",
+              "modId": 231095
+            },
+            {
+              "id": 29911,
+              "description": "Using Transparent Blocks from Flat Colored Blocks",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/29/911/310/172/cb_fcb.png",
+              "title": "Stained Glass Style designs",
+              "url": "https://media.forgecdn.net/attachments/29/911/cb_fcb.png",
+              "modId": 231095
+            },
+            {
+              "id": 197623,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/197/623/310/172/71nbk4r.png",
+              "title": "Workshop - By idahodiscgolf",
+              "url": "https://media.forgecdn.net/attachments/197/623/71nbk4r.png",
+              "modId": 231095
+            },
+            {
+              "id": 33343,
+              "description": "Using fluid bits to create a fountain.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/33/343/310/172/pv72m1p.png",
+              "title": "Clay Fountain - By Mezz",
+              "url": "https://media.forgecdn.net/attachments/33/343/pv72m1p.png",
+              "modId": 231095
+            },
+            {
+              "id": 28891,
+              "description": "Flooring made of stone, sandstone and emerald.",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/28/891/310/172/custom_flooring.png",
+              "title": "Custom Flooring with Various Materials",
+              "url": "https://media.forgecdn.net/attachments/28/891/custom_flooring.png",
+              "modId": 231095
+            },
+            {
+              "id": 197621,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/197/621/310/172/sgz8ado.jpg",
+              "title": "Water Well - By idahodiscgolf",
+              "url": "https://media.forgecdn.net/attachments/197/621/sgz8ado.jpg",
+              "modId": 231095
+            }
+          ],
+          "mainFileId": 3957651
+        },
+        "curseForgeFile": {
+          "id": 3593643,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "chiselsandbits-1.0.63.jar",
+          "fileName": "chiselsandbits-1.0.63.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2022-01-04T14:40:39.373Z",
+          "fileLength": 1283988,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 238222,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 3593644,
+          "modules": [
+            {
+              "fingerprint": 4087667395,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2000983097,
+              "name": "mod"
+            },
+            {
+              "fingerprint": 517568701,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2804025003,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2325622583,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1984535209,
+              "name": "chiselsandbits_at.cfg"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "e8651c1cce8df80a932875e2810c0b9e9ded6a85",
+              "algo": 1
+            },
+            {
+              "value": "928060d0c6042fdca4f937c2a4c5d854",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000016.0000000003",
+              "gameVersion": "1.16.3",
+              "gameVersionReleaseDate": "2020-09-10T14:44:20.443Z",
+              "gameVersionName": "1.16.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000016.0000000005",
+              "gameVersion": "1.16.5",
+              "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+              "gameVersionName": "1.16.5"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000016.0000000004",
+              "gameVersion": "1.16.4",
+              "gameVersionReleaseDate": "2020-11-02T18:40:51.49Z",
+              "gameVersionName": "1.16.4"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000016.0000000002",
+              "gameVersion": "1.16.2",
+              "gameVersionReleaseDate": "2020-08-11T16:42:21.863Z",
+              "gameVersionName": "1.16.2"
+            }
+          ],
+          "gameVersions": [
+            "1.16.3",
+            "1.16.5",
+            "Forge",
+            "1.16.4",
+            "1.16.2"
+          ],
+          "fileFingerprint": 105582602,
+          "modId": 231095
+        }
+      },
+      {
+        "name": "Clumps",
+        "version": "Clumps-6.0.0.25.jar",
+        "optional": false,
+        "file": "Clumps-6.0.0.25.jar",
+        "type": "mods",
+        "description": "Clumps XP orbs together to reduce lag",
+        "disabled": false,
+        "userAdded": false,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 256717,
+        "curseForgeFileId": 3348509,
+        "curseForgeProject": {
+          "id": 256717,
+          "name": "Clumps",
+          "authors": [
+            {
+              "id": 152323,
+              "name": "Jaredlll08",
+              "url": "https://www.curseforge.com/members/10618648-jaredlll08?username=jaredlll08"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Clumps XP orbs together to reduce lag",
+          "categories": [
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Storage",
+              "slug": "storage",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/storage",
+              "dateModified": "2014-05-08T17:41:17.203Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 420,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/35/635351496772023801.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Server Utility",
+              "slug": "server-utility",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/server-utility",
+              "dateModified": "2014-05-08T17:44:55.057Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 435,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/48/635351498950580836.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 435,
+          "classId": 6,
+          "slug": "clumps",
+          "isFeatured": false,
+          "dateModified": "2022-08-24T18:43:58.42Z",
+          "dateCreated": "2017-01-07T11:46:23.243Z",
+          "dateReleased": "2022-08-24T18:19:53.803Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/clumps",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/jaredlll08/Clumps/issues",
+            "sourceUrl": "https://github.com/jaredlll08/Clumps"
+          },
+          "logo": {
+            "id": 84193,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/84/193/256/256/636193647832736518_animated.gif",
+            "title": "636193647832736518.gif",
+            "url": "https://media.forgecdn.net/avatars/84/193/636193647832736518.gif",
+            "modId": 256717
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 3950216
+        },
+        "curseForgeFile": {
+          "id": 3348509,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "Clumps-6.0.0.25.jar",
+          "fileName": "Clumps-6.0.0.25.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2021-06-12T01:54:22.523Z",
+          "fileLength": 18262,
+          "dependencies": [],
+          "alternateFileId": 3348510,
+          "modules": [
+            {
+              "fingerprint": 2057209467,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2941140876,
+              "name": "com"
+            },
+            {
+              "fingerprint": 3623522934,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "4dabffe69ec0bb7fe49b65394dd5b5784624c487",
+              "algo": 1
+            },
+            {
+              "value": "bce7ba8790e10ae9fa59c950ba291e89",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000016.0000000005",
+              "gameVersion": "1.16.5",
+              "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+              "gameVersionName": "1.16.5"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.16.5",
+            "Forge"
+          ],
+          "fileFingerprint": 3761654941,
+          "modId": 256717
+        }
+      },
+      {
+        "name": "CreativeCore",
+        "version": "CreativeCore_v2.2.1_mc1.16.5.jar",
+        "optional": false,
+        "file": "CreativeCore_v2.2.1_mc1.16.5.jar",
+        "type": "mods",
+        "description": "A core mod",
+        "disabled": false,
+        "userAdded": false,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 257814,
+        "curseForgeFileId": 3419983,
+        "curseForgeProject": {
+          "id": 257814,
+          "name": "CreativeCore",
+          "authors": [
+            {
+              "id": 153572,
+              "name": "CreativeMD",
+              "url": "https://www.curseforge.com/members/8685730-creativemd?username=creativemd"
+            }
+          ],
+          "gameId": 432,
+          "summary": "a core mod",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "creativecore",
+          "isFeatured": false,
+          "dateModified": "2022-09-21T15:51:41.457Z",
+          "dateCreated": "2017-01-23T11:04:02.753Z",
+          "dateReleased": "2022-09-21T15:45:29.943Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/creativecore",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/CreativeMD/CreativeCore/issues",
+            "sourceUrl": "https://github.com/CreativeMD/CreativeCore"
+          },
+          "logo": {
+            "id": 86225,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/86/225/256/256/636207446427836220.png",
+            "title": "636207446427836220.png",
+            "url": "https://media.forgecdn.net/avatars/86/225/636207446427836220.png",
+            "modId": 257814
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 3999672
+        },
+        "curseForgeFile": {
+          "id": 3419983,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "CreativeCore_v2.2.1_mc1.16.5.jar",
+          "fileName": "CreativeCore_v2.2.1_mc1.16.5.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2021-08-09T09:13:38.53Z",
+          "fileLength": 631207,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1124175186,
+              "name": "creativecore.png"
+            },
+            {
+              "fingerprint": 4194635062,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1799390839,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 708800546,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3427769675,
+              "name": "team"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "3ebaf255fd6aff4fc3e25422981a2f07b4dc4cd3",
+              "algo": 1
+            },
+            {
+              "value": "c32d3e1df267d820eb2b1b8e8adb75e1",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000016.0000000005",
+              "gameVersion": "1.16.5",
+              "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+              "gameVersionName": "1.16.5"
+            }
+          ],
+          "gameVersions": [
+            "1.16.5"
+          ],
+          "fileFingerprint": 854647538,
+          "modId": 257814
+        },
+        "modrinthProject": {
+          "id": "OsZiaDHq",
+          "slug": "creativecore",
+          "project_type": "mod",
+          "team": "FvoHe2qM",
+          "title": "CreativeCore",
+          "description": "A core mod",
+          "body": "Nothing else than a simple core mod required by most of CreativeMD's mods.\n\n**Features**\n* Gui-Api\n* Config System (/cmdconfig or /cmdclientconfig)\n* Packet system (supports splitted packets)\n* Event system (by N247s)\n* Ingredients\n* Fake world\n\nI know everybody hates core mods, because its an additional file you have to download, but it speeds up my progress. Over the years, I've created tones of useful methods and ways to achieve something. Now i can put all of it in CreativeCore and use it for all of my mods.\n\n[<img src=\"https://www.bisecthosting.com/images/logos/dark_text@1538x500.png \" width=\"250\">\n](https://bisecthosting.com/teamcreative)\n\nUse the promo code teamcreative to get 25% off the first month on any of the gaming servers!\n\n[<img src=\"https://i.imgur.com/g2vJewK.png\" width=\"250\">](https://www.patreon.com/creativemd)",
+          "published": "2021-08-17T09:10:08.972681Z",
+          "updated": "2022-02-23T08:14:25.193782Z",
+          "status": "approved",
+          "license": {
+            "id": "lgpl-2.1",
+            "name": "GNU Lesser General Public License v2.1",
+            "url": "https://cdn.modrinth.com/licenses/lgpl-2.1.txt"
+          },
+          "client_side": "required",
+          "server_side": "optional",
+          "categories": [
+            "library"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/OsZiaDHq/icon.png",
+          "issues_url": "https://github.com/CreativeMD/CreativeCore/issues",
+          "source_url": "https://github.com/CreativeMD/CreativeCore",
+          "discord_url": "https://discord.gg/W9QM3fS",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "fV0nS6Hk",
+          "project_id": "OsZiaDHq",
+          "author_id": "YTAyzo4h",
+          "name": "2.2.1",
+          "version_number": "2.2.1",
+          "changelog": "",
+          "date_published": "2021-08-17T09:10:59.689152Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha512": "d6d62639058338bb0dce9992d27f58d78264d9c4f4c651dc1b2f2701084026a3a982ddfaec9d3d01bd41167f2129dc318cbe22b5bb0da7b80bd6321fb622bfb1",
+                "sha1": "3ebaf255fd6aff4fc3e25422981a2f07b4dc4cd3"
+              },
+              "url": "https://cdn.modrinth.com/data/OsZiaDHq/versions/2.2.1/CreativeCore_v2.2.1_mc1.16.5.jar",
+              "filename": "CreativeCore_v2.2.1_mc1.16.5.jar",
+              "primary": false,
+              "size": 631207
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.16.5"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
+      },
+      {
+        "name": "Entity Culling Fabric/Forge",
+        "version": "1.5.1 - Forge(1.16)",
+        "optional": false,
+        "file": "entityculling-forge-mc1.16.5-1.5.1.jar",
+        "type": "mods",
+        "description": "Using async path-tracing to hide Tiles/Entities that are not visible",
+        "disabled": false,
+        "userAdded": false,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 448233,
+        "curseForgeFileId": 3686561,
+        "curseForgeProject": {
+          "id": 448233,
+          "name": "Entity Culling Fabric/Forge",
+          "authors": [
+            {
+              "id": 360556,
+              "name": "tr9zw",
+              "url": "https://www.curseforge.com/members/100212189-tr9zw?username=tr9zw"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Using async path-tracing to hide Tiles/Entities that are not visible",
+          "categories": [
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "entityculling",
+          "isFeatured": false,
+          "dateModified": "2022-08-10T17:12:36.01Z",
+          "dateCreated": "2021-02-18T16:39:06.283Z",
+          "dateReleased": "2022-08-03T14:25:24.823Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/entityculling",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/tr7zw/EntityCulling/issues",
+            "sourceUrl": "https://github.com/tr7zw/EntityCulling-Fabric"
+          },
+          "logo": {
+            "id": 345318,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/345/318/256/256/637492631463701682.png",
+            "title": "637492631463701682.png",
+            "url": "https://media.forgecdn.net/avatars/345/318/637492631463701682.png",
+            "modId": 448233
+          },
+          "allowModDistribution": false,
+          "screenshots": [],
+          "mainFileId": 3823508
+        },
+        "curseForgeFile": {
+          "id": 3686561,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "1.5.1 - Forge(1.16)",
+          "fileName": "entityculling-forge-mc1.16.5-1.5.1.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2022-03-12T11:40:09.993Z",
+          "fileLength": 46530,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 787699277,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3421239066,
+              "name": "LICENSE-EntityCulling"
+            },
+            {
+              "fingerprint": 1929528592,
+              "name": "LICENSE"
+            },
+            {
+              "fingerprint": 66023202,
+              "name": "entityculling.mixins.json"
+            },
+            {
+              "fingerprint": 889149621,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 398729729,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2528741140,
+              "name": "entityculling.refmap.json"
+            },
+            {
+              "fingerprint": 1852194365,
+              "name": "dev"
+            },
+            {
+              "fingerprint": 349428128,
+              "name": "com"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "9c65e0e9b2bf13fcc5561d24f994a1517fd32a67",
+              "algo": 1
+            },
+            {
+              "value": "ad12567f65a0524e1dcf12d7053a0905",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000016.0000000003",
+              "gameVersion": "1.16.3",
+              "gameVersionReleaseDate": "2020-09-10T14:44:20.443Z",
+              "gameVersionName": "1.16.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000016.0000000001",
+              "gameVersion": "1.16.1",
+              "gameVersionReleaseDate": "2020-06-24T12:41:11.823Z",
+              "gameVersionName": "1.16.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000016",
+              "gameVersion": "1.16",
+              "gameVersionReleaseDate": "2020-06-23T13:41:08.75Z",
+              "gameVersionName": "1.16"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000016.0000000005",
+              "gameVersion": "1.16.5",
+              "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+              "gameVersionName": "1.16.5"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000016.0000000004",
+              "gameVersion": "1.16.4",
+              "gameVersionReleaseDate": "2020-11-02T18:40:51.49Z",
+              "gameVersionName": "1.16.4"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000016.0000000002",
+              "gameVersion": "1.16.2",
+              "gameVersionReleaseDate": "2020-08-11T16:42:21.863Z",
+              "gameVersionName": "1.16.2"
+            }
+          ],
+          "gameVersions": [
+            "1.16.3",
+            "1.16.1",
+            "1.16",
+            "1.16.5",
+            "Forge",
+            "1.16.4",
+            "1.16.2"
+          ],
+          "fileFingerprint": 880281749,
+          "modId": 448233
+        }
+      },
+      {
+        "name": "GraveStone Mod",
+        "version": "[1.16.5] Gravestone Mod 1.16.5-1.0.6",
+        "optional": false,
+        "file": "gravestone-1.16.5-1.0.6.jar",
+        "type": "mods",
+        "description": "Places a gravestone with your inventory items inside when you die",
+        "disabled": false,
+        "userAdded": false,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 238551,
+        "curseForgeFileId": 3289916,
+        "curseForgeProject": {
+          "id": 238551,
+          "name": "GraveStone Mod",
+          "authors": [
+            {
+              "id": 32717,
+              "name": "henkelmax",
+              "url": "https://www.curseforge.com/members/20569971-henkelmax?username=henkelmax"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Places a gravestone with your inventory items inside when you die",
+          "categories": [
+            {
+              "name": "Miscellaneous",
+              "slug": "mc-miscellaneous",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-miscellaneous",
+              "dateModified": "2014-06-15T04:27:14.543Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 425,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/40/635351497693711265.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 425,
+          "classId": 6,
+          "slug": "gravestone-mod",
+          "isFeatured": false,
+          "dateModified": "2022-08-20T11:25:54.827Z",
+          "dateCreated": "2015-12-05T11:26:31.953Z",
+          "dateReleased": "2022-08-20T11:16:55.02Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/gravestone-mod",
+            "wikiUrl": "https://modrepo.de/minecraft/gravestone/overview",
+            "issuesUrl": "https://github.com/henkelmax/gravestone/issues",
+            "sourceUrl": "https://github.com/henkelmax/gravestone"
+          },
+          "logo": {
+            "id": 276919,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/276/919/256/256/637267971739647681.png",
+            "title": "637267971739647681.png",
+            "url": "https://media.forgecdn.net/avatars/276/919/637267971739647681.png",
+            "modId": 238551
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 3943237
+        },
+        "curseForgeFile": {
+          "id": 3289916,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[1.16.5] Gravestone Mod 1.16.5-1.0.6",
+          "fileName": "gravestone-1.16.5-1.0.6.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2021-04-26T17:12:56.473Z",
+          "fileLength": 234677,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1871990719,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 3230716890,
+              "name": "de"
+            },
+            {
+              "fingerprint": 2506002057,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1386702837,
+              "name": "data"
+            },
+            {
+              "fingerprint": 4098187742,
+              "name": "gravestone.png"
+            },
+            {
+              "fingerprint": 1770466569,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "80c89251cae7e5b0f0db857941db744823d47090",
+              "algo": 1
+            },
+            {
+              "value": "045b52a5d3f9fb01b799930fce8d2e4e",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000016.0000000005",
+              "gameVersion": "1.16.5",
+              "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+              "gameVersionName": "1.16.5"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.16.5",
+            "Forge"
+          ],
+          "fileFingerprint": 1783849258,
+          "modId": 238551
+        }
+      },
+      {
+        "name": "Immersive Engineering",
+        "version": "ImmersiveEngineering-1.16.5-5.1.0-148",
+        "optional": false,
+        "file": "ImmersiveEngineering-1.16.5-5.1.0-148.jar",
+        "type": "mods",
+        "description": "Retrofuturism, industry and multiblocks!",
+        "disabled": false,
+        "userAdded": false,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 231951,
+        "curseForgeFileId": 3809596,
+        "curseForgeProject": {
+          "id": 231951,
+          "name": "Immersive Engineering",
+          "authors": [
+            {
+              "id": 24523,
+              "name": "BluSunrize",
+              "url": "https://www.curseforge.com/members/6842539-blusunrize?username=blusunrize"
+            },
+            {
+              "id": 354656,
+              "name": "Sky_Som",
+              "url": "https://www.curseforge.com/members/17454091-sky_som?username=sky_som"
+            },
+            {
+              "id": 186718,
+              "name": "malte0811",
+              "url": "https://www.curseforge.com/members/23615989-malte0811?username=malte0811"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A retro-futuristic tech mod!",
+          "categories": [
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Energy, Fluid, and Item Transport",
+              "slug": "technology-item-fluid-energy-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-item-fluid-energy-transport",
+              "dateModified": "2014-05-08T17:39:07.873Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 415,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/30/635351495478719291.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Energy",
+              "slug": "technology-energy",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-energy",
+              "dateModified": "2014-05-08T17:39:33.79Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 417,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/32/635351495737894438.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Processing",
+              "slug": "technology-processing",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-processing",
+              "dateModified": "2014-05-08T17:38:41.96Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 413,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/28/635351495219610266.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 412,
+          "classId": 6,
+          "slug": "immersive-engineering",
+          "isFeatured": false,
+          "dateModified": "2022-09-02T17:50:02.287Z",
+          "dateCreated": "2015-06-24T13:14:52.377Z",
+          "dateReleased": "2022-09-02T17:28:26.043Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/immersive-engineering",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/BluSunrize/ImmersiveEngineering/issues",
+            "sourceUrl": "https://github.com/BluSunrize/ImmersiveEngineering"
+          },
+          "logo": {
+            "id": 20135,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/20/135/256/256/635707329671959611.png",
+            "title": "635707329671959611.png",
+            "url": "https://media.forgecdn.net/avatars/20/135/635707329671959611.png",
+            "modId": 231951
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 3964014
+        },
+        "curseForgeFile": {
+          "id": 3809596,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "ImmersiveEngineering-1.16.5-5.1.0-148",
+          "fileName": "ImmersiveEngineering-1.16.5-5.1.0-148.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2022-05-29T19:08:23.86Z",
+          "fileLength": 9414280,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2084073161,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 262602997,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 2329186512,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 3702621219,
+              "name": "immersiveengineering.mixins.json"
+            },
+            {
+              "fingerprint": 3522644824,
+              "name": "data"
+            },
+            {
+              "fingerprint": 982473106,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3392859957,
+              "name": ".cache"
+            },
+            {
+              "fingerprint": 275299890,
+              "name": "ImmersiveEngineering-refmap.json"
+            },
+            {
+              "fingerprint": 2902456052,
+              "name": "blusunrize"
+            },
+            {
+              "fingerprint": 1311683996,
+              "name": "invtweaks"
+            },
+            {
+              "fingerprint": 6391778,
+              "name": "malte0811"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "3264b5e3047575faa32d9a32f70c0d0c8039ad37",
+              "algo": 1
+            },
+            {
+              "value": "834eb9edbfc3136ab5b14983fef05275",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000016.0000000005",
+              "gameVersion": "1.16.5",
+              "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+              "gameVersionName": "1.16.5"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.16.5",
+            "Forge"
+          ],
+          "fileFingerprint": 2847102389,
+          "modId": 231951
+        },
+        "modrinthProject": {
+          "id": "tIm2nV03",
+          "slug": "immersiveengineering",
+          "project_type": "mod",
+          "team": "KSJVh9wx",
+          "title": "Immersive Engineering",
+          "description": "Retrofuturism, industry and multiblocks!",
+          "body": "### About\nImmersive Engineering is a tech mod with a certain charm, based on the ideas and concepts, and with most assets created by Damien Hazard.\n\n \n\nOverall, it's about realism-inspired technology:\nInstead of glowing red tubes, it offers actual, hanging powerlines.\nInstead of one block that magically spits out dusts when ore is put in, it offers a crusher, a big multiblock (5x3x3) that features rotating wheels and spits out particles as it breaks the ore.\nInstead of a Laser that turns power into magical light and ores, it offers an Excavator, another massive, resource intensive, multiblock (3x7x8) which digs ores out of the ground with a big rotating bucketwheel.\n\nIE is about making tech mods more balanced and more pretty, and adding its own twist by going for retro-futurism (think BioShock, Order 1886, SkyCaptain and the World of Tomorrow) rather than clinical white+grey future cubes.\n\n\nIt uses the Forge Energy API, known from just about every other tech mod, but it can be played fully standalone. Unlike other mods, IE does not use powertransfer via lanes of blocks, but instead via cables spanned between connectors.\n\nThe mod features Power Generation in forms of waterwheels, windmills, biodiesel and more and many of its machines are multiblocks!\n\nFor all your documentation needs, you should look into this mods ingame documentation, the Engineer's Manual, crafted with a book and a lever.\n\n \n\n### Discord:\n\nCome to [Hazard's Corner](https://discord.com/invite/SnUp97WUrN) to chat about the mod and other projects!\n\n \n\n### Modpack policy:\n\nGo wild, as long as you do not monetize content that doesn't belong to you and abide the EULA and respect our license =)\nAnd obviously, report your bugs on the issue tracker! :D\n\n \n\n### Porting this to another Modloader:\n\nNo, it's not happening. Immersive Engineering is not leaving the Forge API. We're not porting to Fabric, Quilt or whatever other loaders there are.\nThe reasons for this are multiple, but most importantly: This is a hobby and we literally don't have time to learn a new API.",
+          "published": "2022-05-29T19:03:19.068401Z",
+          "updated": "2022-09-02T16:47:39.703287Z",
+          "status": "approved",
+          "license": {
+            "id": "custom",
+            "name": "Custom License",
+            "url": "https://github.com/BluSunrize/ImmersiveEngineering/blob/1.16.5/LICENSE"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "equipment",
+            "technology"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/tIm2nV03/icon.png",
+          "issues_url": "https://github.com/BluSunrize/ImmersiveEngineering/issues",
+          "source_url": "https://github.com/BluSunrize/ImmersiveEngineering",
+          "discord_url": "https://discord.com/invite/SnUp97WUrN",
+          "donation_urls": [],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "4e5ym3hC",
+          "project_id": "tIm2nV03",
+          "author_id": "uF0leaD8",
+          "name": "1.16.5-5.1.0-148",
+          "version_number": "5.1.0-148",
+          "changelog": "##### Version 1.16.5-5.1.0-148\n- Add a new API interface that allows pressurized fluid in- and output above normal levels (BluSunrize)\n- Add fermentation recipe to turn beetroots into ethanol (BluSunrize)\n- Update JEI handlers for Coke Oven, Blast Furnace and Alloy Smelter to have some animated doodads (BluSunrize)\n- Update manual entry for fluid pipes to document that they can be dyed (BluSunrize)\n- Fix flipped bounding boxes for the Lightning Rod (BluSunrize)\n- Fix texture glitches on Refinery model (BluSunrize)\n- Fix pipes and pumps transferring fluids much slower than planned, because pressurization didn't work (BluSunrize)\n- Fix manual entries referring to \"Engineer's Hammer\" when \"Engineer's Screwdriver\" is the correct tool (Vapaman)\n- Fix tooltips for tool upgrades being white instead of grey (BluSunrize)\n- Fix fluid pipes voiding fluid after chunks being un- and reloaded (Malte)\n- Fix blades not showing in the buzzsaw quiver (BluSunrize)\n- Fix circuit table not dropping its contents (Malte)\n- Fix floodlight not using its active texture (Malte)\n- Fix sync issues and dupe bug in the buzzsaw (BluSunrize)\n- Fix faraday suit incorrectly accepting enchantments in the anvil (BluSunrize)\n- Fix dupe bugs in the Engineer's Crafting Table (Malte)\n- Fix errors with Starlight in the manual (Malte)\n- Fix logic units with inverters producing incorrect output on reload (Malte)\n- Fix lighting issues in offhand on some items (Malte)\n- Fix faraday suit accepting enchantments in the anvil (BluSunrize)\n- Fix shaders not unlocking in the manual (BluSunrize)",
+          "date_published": "2022-05-29T19:03:19.070430Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "3264b5e3047575faa32d9a32f70c0d0c8039ad37",
+                "sha512": "32ec77b58de89e0e572240672b1371b03ad3e906b9e2660dafc6fb92f3a7436c0e37f70fc36c1912377fb88b7df3f453dd95c4ea7ca2895f85ef45b20fa8b603"
+              },
+              "url": "https://cdn.modrinth.com/data/tIm2nV03/versions/5.1.0-148/ImmersiveEngineering-1.16.5-5.1.0-148.jar",
+              "filename": "ImmersiveEngineering-1.16.5-5.1.0-148.jar",
+              "primary": true,
+              "size": 9414280
+            }
+          ],
+          "dependencies": [],
+          "game_versions": [
+            "1.16.5"
+          ],
+          "loaders": [
+            "forge"
+          ]
+        }
+      },
+      {
+        "name": "Immersive Industry",
+        "version": "ImmersiveIndustry-1.16.5-0.1.7f.jar",
+        "optional": false,
+        "file": "ImmersiveIndustry-1.16.5-0.1.7f.jar",
+        "type": "mods",
+        "description": "Introduce more various process and energy production machines to Immersive Engineering.",
+        "disabled": false,
+        "userAdded": false,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 542053,
+        "curseForgeFileId": 3994816,
+        "curseForgeProject": {
+          "id": 542053,
+          "name": "Immersive Industry",
+          "authors": [
+            {
+              "id": 461236,
+              "name": "yuesha_yc",
+              "url": "https://www.curseforge.com/members/100891059-yuesha_yc?username=yuesha_yc"
+            },
+            {
+              "id": 491463,
+              "name": "khjxiaogu",
+              "url": "https://www.curseforge.com/members/102787001-khjxiaogu?username=khjxiaogu"
+            },
+            {
+              "id": 461237,
+              "name": "dashuaibiaa",
+              "url": "https://www.curseforge.com/members/101115378-dashuaibiaa?username=dashuaibiaa"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Introduce more various process and energy production machines to Immersive Engineering.",
+          "categories": [
+            {
+              "name": "Energy",
+              "slug": "technology-energy",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-energy",
+              "dateModified": "2014-05-08T17:39:33.79Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 417,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/32/635351495737894438.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Automation",
+              "slug": "technology-automation",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-automation",
+              "dateModified": "2021-03-08T14:46:13.24Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 4843,
+              "iconUrl": "https://media.forgecdn.net/avatars/352/517/637508115731820565.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Energy, Fluid, and Item Transport",
+              "slug": "technology-item-fluid-energy-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-item-fluid-energy-transport",
+              "dateModified": "2014-05-08T17:39:07.873Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 415,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/30/635351495478719291.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Processing",
+              "slug": "technology-processing",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-processing",
+              "dateModified": "2014-05-08T17:38:41.96Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 413,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/28/635351495219610266.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 412,
+          "classId": 6,
+          "slug": "immersive-industry",
+          "isFeatured": false,
+          "dateModified": "2022-09-18T05:45:20.753Z",
+          "dateCreated": "2021-10-28T07:51:51.4Z",
+          "dateReleased": "2022-09-18T05:33:26.507Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/immersive-industry",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/TeamMoegMC/ImmersiveIndustry/issues",
+            "sourceUrl": "https://github.com/TeamMoegMC/ImmersiveIndustry"
+          },
+          "logo": {
+            "id": 477934,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/477/934/256/256/637773146939970935.png",
+            "title": "637773146939970935.png",
+            "url": "https://media.forgecdn.net/avatars/477/934/637773146939970935.png",
+            "modId": 542053
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 421598,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/421/598/310/172/imee.png",
+              "title": "Industrial Electrolyzer",
+              "url": "https://media.forgecdn.net/attachments/421/598/imee.png",
+              "modId": 542053
+            }
+          ],
+          "mainFileId": 3994816
+        },
+        "curseForgeFile": {
+          "id": 3994816,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "ImmersiveIndustry-1.16.5-0.1.7f.jar",
+          "fileName": "ImmersiveIndustry-1.16.5-0.1.7f.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2022-09-18T05:33:26.507Z",
+          "fileLength": 441360,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 231951,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2780844303,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 4179497349,
+              "name": "com"
+            },
+            {
+              "fingerprint": 3238241115,
+              "name": ".cache"
+            },
+            {
+              "fingerprint": 3691940019,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3887914894,
+              "name": "data"
+            },
+            {
+              "fingerprint": 2967015568,
+              "name": "immersiveindustry.mixins.json"
+            },
+            {
+              "fingerprint": 2312690788,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3527628697,
+              "name": "mixin.refmap.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "a5705df6702e4665261bfce44d3e49280b53cc36",
+              "algo": 1
+            },
+            {
+              "value": "e29b415a8cd6f26134ed15799591010a",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000016.0000000005",
+              "gameVersion": "1.16.5",
+              "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+              "gameVersionName": "1.16.5"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.16.5",
+            "Forge"
+          ],
+          "fileFingerprint": 1423506932,
+          "modId": 542053
+        }
+      },
+      {
+        "name": "Immersive Petroleum",
+        "version": "ImmersivePetroleum-1.16.5-3.4.0-13.jar",
+        "optional": false,
+        "file": "ImmersivePetroleum-1.16.5-3.4.0-13.jar",
+        "type": "mods",
+        "description": "Adds oil and oil processing to Immersive Engineering",
+        "disabled": false,
+        "userAdded": false,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 268250,
+        "curseForgeFileId": 3912339,
+        "curseForgeProject": {
+          "id": 268250,
+          "name": "Immersive Petroleum",
+          "authors": [
+            {
+              "id": 165052,
+              "name": "Flaxbeard",
+              "url": "https://www.curseforge.com/members/9115124-flaxbeard?username=flaxbeard"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Adds oil and oil processing to Immersive Engineering",
+          "categories": [
+            {
+              "name": "Addons",
+              "slug": "mc-addons",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/mc-addons",
+              "dateModified": "2014-05-08T17:09:48.63Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 426,
+              "iconUrl": "https://media.forgecdn.net/avatars/5/998/635351477886290676.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Ores and Resources",
+              "slug": "world-ores-resources",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-ores-resources",
+              "dateModified": "2014-05-08T17:36:41.233Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 408,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/23/635351494012336510.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            },
+            {
+              "name": "Energy",
+              "slug": "technology-energy",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-energy",
+              "dateModified": "2014-05-08T17:39:33.79Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 417,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/32/635351495737894438.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Technology",
+              "slug": "technology",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology",
+              "dateModified": "2014-05-08T17:37:54.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 412,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/27/635351494745973439.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Processing",
+              "slug": "technology-processing",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-processing",
+              "dateModified": "2014-05-08T17:38:41.96Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 413,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/28/635351495219610266.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 412,
+          "classId": 6,
+          "slug": "immersive-petroleum",
+          "isFeatured": false,
+          "dateModified": "2022-08-02T09:16:03.633Z",
+          "dateCreated": "2017-05-24T03:05:37.473Z",
+          "dateReleased": "2022-08-02T09:12:47.517Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/immersive-petroleum",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/TwistedGate/ImmersivePetroleum/issues",
+            "sourceUrl": "https://github.com/TwistedGate/ImmersivePetroleum"
+          },
+          "logo": {
+            "id": 99974,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/99/974/256/256/636311739375036277.png",
+            "title": "636311739375036277.png",
+            "url": "https://media.forgecdn.net/avatars/99/974/636311739375036277.png",
+            "modId": 268250
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 209855,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/209/855/310/172/tower.png",
+              "title": "Distillation Tower",
+              "url": "https://media.forgecdn.net/attachments/209/855/tower.png",
+              "modId": 268250
+            },
+            {
+              "id": 214063,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/214/63/310/172/distillation.png",
+              "title": "Refinery",
+              "url": "https://media.forgecdn.net/attachments/214/63/distillation.png",
+              "modId": 268250
+            },
+            {
+              "id": 214060,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/214/60/310/172/sample.png",
+              "title": "Portable Generator",
+              "url": "https://media.forgecdn.net/attachments/214/60/sample.png",
+              "modId": 268250
+            },
+            {
+              "id": 214061,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/214/61/310/172/projector.png",
+              "title": "Using a Multiblock Projector",
+              "url": "https://media.forgecdn.net/attachments/214/61/projector.png",
+              "modId": 268250
+            },
+            {
+              "id": 214062,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/214/62/310/172/dock.png",
+              "title": "Motorboats at a dock",
+              "url": "https://media.forgecdn.net/attachments/214/62/dock.png",
+              "modId": 268250
+            },
+            {
+              "id": 209856,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/209/856/310/172/oilfactory.png",
+              "title": "Oil Production Facility",
+              "url": "https://media.forgecdn.net/attachments/209/856/oilfactory.png",
+              "modId": 268250
+            },
+            {
+              "id": 209854,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/209/854/310/172/pumpjacks.png",
+              "title": "Pumpjacks",
+              "url": "https://media.forgecdn.net/attachments/209/854/pumpjacks.png",
+              "modId": 268250
+            }
+          ],
+          "mainFileId": 3912339
+        },
+        "curseForgeFile": {
+          "id": 3912339,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "ImmersivePetroleum-1.16.5-3.4.0-13.jar",
+          "fileName": "ImmersivePetroleum-1.16.5-3.4.0-13.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2022-08-02T09:12:47.517Z",
+          "fileLength": 1532684,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 231951,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1948026966,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 1379515758,
+              "name": "flaxbeard"
+            },
+            {
+              "fingerprint": 2049474036,
+              "name": ".cache"
+            },
+            {
+              "fingerprint": 917661319,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3451927459,
+              "name": "data"
+            },
+            {
+              "fingerprint": 3738625196,
+              "name": "logo.png"
+            },
+            {
+              "fingerprint": 3200837954,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "941fd04214cd475cb2216cdba24027018f7d5b63",
+              "algo": 1
+            },
+            {
+              "value": "cb1090c4f4f1eb116842d976296b724b",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000016.0000000005",
+              "gameVersion": "1.16.5",
+              "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+              "gameVersionName": "1.16.5"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.16.5",
+            "Forge"
+          ],
+          "fileFingerprint": 712034917,
+          "modId": 268250
+        }
+      },
+      {
+        "name": "Immersive Railroading",
+        "version": "ImmersiveRailroading-1.16.5-forge-1.9.1.jar",
+        "optional": false,
+        "file": "ImmersiveRailroading-1.16.5-forge-1.9.1.jar",
+        "type": "mods",
+        "description": "A life size rail transport system for Minecraft",
+        "disabled": false,
+        "userAdded": false,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 277736,
+        "curseForgeFileId": 3437827,
+        "curseForgeProject": {
+          "id": 277736,
+          "name": "Immersive Railroading",
+          "authors": [
+            {
+              "id": 175541,
+              "name": "cam72cam",
+              "url": "https://www.curseforge.com/members/36332130-cam72cam?username=cam72cam"
+            },
+            {
+              "id": 176961,
+              "name": "Trainman264",
+              "url": "https://www.curseforge.com/members/21622522-trainman264?username=trainman264"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A life size rail transport system for Minecraft",
+          "categories": [
+            {
+              "name": "Cosmetic",
+              "slug": "cosmetic",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/cosmetic",
+              "dateModified": "2014-05-08T17:42:35.597Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 424,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/39/635351497555976928.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Player Transport",
+              "slug": "technology-player-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-player-transport",
+              "dateModified": "2014-05-08T17:38:58.357Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 414,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/29/635351495383551178.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Energy, Fluid, and Item Transport",
+              "slug": "technology-item-fluid-energy-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-item-fluid-energy-transport",
+              "dateModified": "2014-05-08T17:39:07.873Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 415,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/30/635351495478719291.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 414,
+          "classId": 6,
+          "slug": "immersive-railroading",
+          "isFeatured": false,
+          "dateModified": "2021-08-24T17:39:43.99Z",
+          "dateCreated": "2017-09-10T23:39:44.07Z",
+          "dateReleased": "2021-08-24T17:34:50.33Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/immersive-railroading",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/cam72cam/ImmersiveRailroading/issues",
+            "sourceUrl": "https://github.com/cam72cam/ImmersiveRailroading"
+          },
+          "logo": {
+            "id": 120268,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/120/268/256/256/636406655841781764.png",
+            "title": "636406655841781764.png",
+            "url": "https://media.forgecdn.net/avatars/120/268/636406655841781764.png",
+            "modId": 277736
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 3437827
+        },
+        "curseForgeFile": {
+          "id": 3437827,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "ImmersiveRailroading-1.16.5-forge-1.9.1.jar",
+          "fileName": "ImmersiveRailroading-1.16.5-forge-1.9.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2021-08-24T17:34:50.33Z",
+          "fileLength": 104188402,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 223815,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 371784,
+              "relationType": 3
+            },
+            {
+              "fileId": 0,
+              "modId": 223008,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 231951,
+              "relationType": 2
+            },
+            {
+              "fileId": 0,
+              "modId": 282613,
+              "relationType": 3
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 642041227,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 359607966,
+              "name": "cam72cam"
+            },
+            {
+              "fingerprint": 3347453785,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1111715731,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2292077948,
+              "name": ".cache"
+            },
+            {
+              "fingerprint": 1674606370,
+              "name": "data"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "70eab4ec2a4295ebf8d59f6e5337c17e692e6445",
+              "algo": 1
+            },
+            {
+              "value": "22d81cfcdd233d9cbceb31e099127251",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000016.0000000005",
+              "gameVersion": "1.16.5",
+              "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+              "gameVersionName": "1.16.5"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.16.5",
+            "Forge"
+          ],
+          "fileFingerprint": 109861302,
+          "modId": 277736
+        }
+      },
+      {
+        "name": "Just Enough Items (JEI)",
+        "version": "jei-1.16.5-7.7.1.151.jar",
+        "optional": false,
+        "file": "jei-1.16.5-7.7.1.151.jar",
+        "type": "mods",
+        "description": "View Items and Recipes",
+        "disabled": false,
+        "userAdded": false,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 238222,
+        "curseForgeFileId": 3681089,
+        "curseForgeProject": {
+          "id": 238222,
+          "name": "Just Enough Items (JEI)",
+          "authors": [
+            {
+              "id": 32358,
+              "name": "mezz",
+              "url": "https://www.curseforge.com/members/17072262-mezz?username=mezz"
+            }
+          ],
+          "gameId": 432,
+          "summary": "View Items and Recipes",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 423,
+          "classId": 6,
+          "slug": "jei",
+          "isFeatured": false,
+          "dateModified": "2022-09-05T02:03:06.033Z",
+          "dateCreated": "2015-11-23T22:55:58.84Z",
+          "dateReleased": "2022-09-05T01:58:15.69Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/jei",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/mezz/JustEnoughItems/issues?q=is%3Aissue",
+            "sourceUrl": "https://github.com/mezz/JustEnoughItems"
+          },
+          "logo": {
+            "id": 29069,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/29/69/256/256/635838945588716414.jpeg",
+            "title": "635838945588716414.jpeg",
+            "url": "https://media.forgecdn.net/avatars/29/69/635838945588716414.jpeg",
+            "modId": 238222
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 31417,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/31/417/310/172/thzzdin.png",
+              "title": "Recipe Completion",
+              "url": "https://media.forgecdn.net/attachments/31/417/thzzdin.png",
+              "modId": 238222
+            },
+            {
+              "id": 31419,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/31/419/310/172/t7f7jh6.png",
+              "title": "Potions",
+              "url": "https://media.forgecdn.net/attachments/31/419/t7f7jh6.png",
+              "modId": 238222
+            },
+            {
+              "id": 31420,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/31/420/310/172/tgafkma.png",
+              "title": "Itemlist Edit Mode",
+              "url": "https://media.forgecdn.net/attachments/31/420/tgafkma.png",
+              "modId": 238222
+            },
+            {
+              "id": 31418,
+              "description": "",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/31/418/310/172/9lngh5f.png",
+              "title": "Big Screen Support",
+              "url": "https://media.forgecdn.net/attachments/31/418/9lngh5f.png",
+              "modId": 238222
+            }
+          ],
+          "mainFileId": 3940240
+        },
+        "curseForgeFile": {
+          "id": 3681089,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "jei-1.16.5-7.7.1.151.jar",
+          "fileName": "jei-1.16.5-7.7.1.151.jar",
+          "releaseType": 2,
+          "fileStatus": 4,
+          "fileDate": "2022-03-07T21:48:38.59Z",
+          "fileLength": 828677,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2428682474,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2919957822,
+              "name": "mezz"
+            },
+            {
+              "fingerprint": 1645019714,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 2175482401,
+              "name": "assets"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "83da7b3529cd9a92c153ec231a64b492e058f527",
+              "algo": 1
+            },
+            {
+              "value": "f007069758cb28706e911b70ab83d59b",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000016.0000000005",
+              "gameVersion": "1.16.5",
+              "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+              "gameVersionName": "1.16.5"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.16.5",
+            "Forge"
+          ],
+          "fileFingerprint": 1507571803,
+          "modId": 238222
+        }
+      },
+      {
+        "name": "TerraForged",
+        "version": "0.2.15",
+        "optional": false,
+        "file": "TerraForged-1.16.5-0.2.15.jar",
+        "type": "mods",
+        "description": "A worldgen overhaul mod",
+        "disabled": false,
+        "userAdded": false,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 363820,
+        "curseForgeFileId": 3451426,
+        "curseForgeProject": {
+          "id": 363820,
+          "name": "TerraForged",
+          "authors": [
+            {
+              "id": 337779,
+              "name": "won_ton_",
+              "url": "https://www.curseforge.com/members/101683032-won_ton_?username=won_ton_"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A worldgen overhaul mod",
+          "categories": [
+            {
+              "name": "World Gen",
+              "slug": "world-gen",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen",
+              "dateModified": "2017-10-16T21:40:11.473Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 406,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/26/635351494599748860.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Biomes",
+              "slug": "world-biomes",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/world-gen/world-biomes",
+              "dateModified": "2014-05-08T17:34:59.587Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 407,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/22/635351492995856506.png",
+              "parentCategoryId": 406,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 406,
+          "classId": 6,
+          "slug": "terraforged",
+          "isFeatured": false,
+          "dateModified": "2022-05-30T21:30:37.713Z",
+          "dateCreated": "2020-02-21T13:07:47.493Z",
+          "dateReleased": "2022-05-30T21:23:29.423Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/terraforged",
+            "wikiUrl": "https://terraforged.com/wiki",
+            "issuesUrl": "https://github.com/TerraForged/tracker/issues",
+            "sourceUrl": "https://github.com/TerraForged/TerraForged"
+          },
+          "logo": {
+            "id": 250449,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/250/449/256/256/637178872675324299.png",
+            "title": "637178872675324299.png",
+            "url": "https://media.forgecdn.net/avatars/250/449/637178872675324299.png",
+            "modId": 363820
+          },
+          "allowModDistribution": true,
+          "screenshots": [
+            {
+              "id": 279955,
+              "description": "Showing TerraForged & vanilla biomes only. (Custom trees included in TF)",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/279/955/310/172/savanna-1.jpg",
+              "title": "Savanna",
+              "url": "https://media.forgecdn.net/attachments/279/955/savanna-1.jpg",
+              "modId": 363820
+            },
+            {
+              "id": 279950,
+              "description": "Showing TerraForged's terrain, taiga biome & custom taiga trees. Biomes o Plenty can be seen in the foreground biome",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/279/950/310/172/village-1.jpg",
+              "title": "Mountain Village",
+              "url": "https://media.forgecdn.net/attachments/279/950/village-1.jpg",
+              "modId": 363820
+            },
+            {
+              "id": 279951,
+              "description": "Showing just TerraForged and vanilla biomes (with TF's custom biome features such as trees)",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/279/951/310/172/taiga-1.jpg",
+              "title": "Taiga Sunset",
+              "url": "https://media.forgecdn.net/attachments/279/951/taiga-1.jpg",
+              "modId": 363820
+            },
+            {
+              "id": 279952,
+              "description": "Showing TerraForged + vanilla only",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/279/952/310/172/flowers-1.jpg",
+              "title": "Flower Hills",
+              "url": "https://media.forgecdn.net/attachments/279/952/flowers-1.jpg",
+              "modId": 363820
+            },
+            {
+              "id": 279953,
+              "description": "Demonstrating TerraForged's terrain running along side Biomes o Plenty",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/279/953/310/172/bop-2.jpg",
+              "title": "Mountain Backdrop",
+              "url": "https://media.forgecdn.net/attachments/279/953/bop-2.jpg",
+              "modId": 363820
+            },
+            {
+              "id": 279958,
+              "description": "Showing a TerraForged mountain range. (This was taken before custom trees were added to the mod, so those are vanilla )",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/279/958/310/172/mountains-2.jpg",
+              "title": "Mountain Range",
+              "url": "https://media.forgecdn.net/attachments/279/958/mountains-2.jpg",
+              "modId": 363820
+            },
+            {
+              "id": 279957,
+              "description": "Showing another TerraForged hill/mountain type, custom trees and smooth snow option",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/279/957/310/172/sunset-1.jpg",
+              "title": "Terraced Mountains",
+              "url": "https://media.forgecdn.net/attachments/279/957/sunset-1.jpg",
+              "modId": 363820
+            },
+            {
+              "id": 279956,
+              "description": "Showing one of TerraForged's river types running through a birch forest biome (custom trees included in TF)",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/279/956/310/172/river-1.jpg",
+              "title": "Meandering River",
+              "url": "https://media.forgecdn.net/attachments/279/956/river-1.jpg",
+              "modId": 363820
+            },
+            {
+              "id": 279954,
+              "description": "Showing TerraForged's terrain, custom trees, smooth-snow option. A Biomes o Plenty biome can be seen to the back left",
+              "thumbnailUrl": "https://media.forgecdn.net/attachments/thumbnails/279/954/310/172/mountains-3.jpg",
+              "title": "Tundra",
+              "url": "https://media.forgecdn.net/attachments/279/954/mountains-3.jpg",
+              "modId": 363820
+            }
+          ],
+          "mainFileId": 3451426
+        },
+        "curseForgeFile": {
+          "id": 3451426,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "0.2.15",
+          "fileName": "TerraForged-1.16.5-0.2.15.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2021-09-05T20:01:16.317Z",
+          "fileLength": 1658814,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 2441090619,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 190072836,
+              "name": "LICENSE"
+            },
+            {
+              "fingerprint": 3589983164,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 2949016127,
+              "name": "biomes.png"
+            },
+            {
+              "fingerprint": 366301374,
+              "name": "biomes.txt"
+            },
+            {
+              "fingerprint": 3051592323,
+              "name": "com"
+            },
+            {
+              "fingerprint": 2274904774,
+              "name": "data"
+            },
+            {
+              "fingerprint": 4127921330,
+              "name": "mixin.terraforged.json"
+            },
+            {
+              "fingerprint": 2848482156,
+              "name": "mixin.terraforged.refmap.json"
+            },
+            {
+              "fingerprint": 143006859,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1043228814,
+              "name": "presets"
+            },
+            {
+              "fingerprint": 618737389,
+              "name": "terraforged.png"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "0f5e8046788f57b701a54dfaf2bf573143b24e5a",
+              "algo": 1
+            },
+            {
+              "value": "02fb18a8032af9036eb1fb96566d3057",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000016.0000000005",
+              "gameVersion": "1.16.5",
+              "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+              "gameVersionName": "1.16.5"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.16.5",
+            "Forge"
+          ],
+          "fileFingerprint": 1238608213,
+          "modId": 363820
+        }
+      },
+      {
+        "name": "Track API",
+        "version": "TrackAPI-1.16.4-forge-1.2.1.jar",
+        "optional": false,
+        "file": "TrackAPI-1.16.4-forge-1.2.1.jar",
+        "type": "mods",
+        "description": "A compatibility layer for train mods",
+        "disabled": false,
+        "userAdded": false,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 282613,
+        "curseForgeFileId": 3137725,
+        "curseForgeProject": {
+          "id": 282613,
+          "name": "Track API",
+          "authors": [
+            {
+              "id": 180984,
+              "name": "cam72cam",
+              "url": "https://www.curseforge.com/members/36332130-cam72cam?username=cam72cam"
+            }
+          ],
+          "gameId": 432,
+          "summary": "A compatibility layer for train mods",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            },
+            {
+              "name": "Energy, Fluid, and Item Transport",
+              "slug": "technology-item-fluid-energy-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-item-fluid-energy-transport",
+              "dateModified": "2014-05-08T17:39:07.873Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 415,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/30/635351495478719291.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            },
+            {
+              "name": "Player Transport",
+              "slug": "technology-player-transport",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/technology/technology-player-transport",
+              "dateModified": "2014-05-08T17:38:58.357Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 414,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/29/635351495383551178.png",
+              "parentCategoryId": 412,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "track-api",
+          "isFeatured": false,
+          "dateModified": "2021-02-14T20:15:33.287Z",
+          "dateCreated": "2017-11-26T18:45:02.27Z",
+          "dateReleased": "2020-12-13T19:25:55.58Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/track-api",
+            "issuesUrl": "https://github.com/cam72cam/TrackAPI/issues",
+            "sourceUrl": "https://github.com/cam72cam/TrackAPI"
+          },
+          "logo": {
+            "id": 132173,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/132/173/256/256/636472971023001539.png",
+            "title": "636472971023001539.png",
+            "url": "https://media.forgecdn.net/avatars/132/173/636472971023001539.png",
+            "modId": 282613
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 3137725
+        },
+        "curseForgeFile": {
+          "id": 3137725,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "TrackAPI-1.16.4-forge-1.2.1.jar",
+          "fileName": "TrackAPI-1.16.4-forge-1.2.1.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2020-12-13T19:25:55.58Z",
+          "fileLength": 7351,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 1913020667,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2698252814,
+              "name": "trackapi"
+            },
+            {
+              "fingerprint": 1870722517,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 1711118498,
+              "name": "mcmod.info"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "089a55522c58067ca6022c525db298819dd59786",
+              "algo": 1
+            },
+            {
+              "value": "76dfb31770d052124c250b3deeb035a7",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000016.0000000005",
+              "gameVersion": "1.16.5",
+              "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+              "gameVersionName": "1.16.5"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000016.0000000004",
+              "gameVersion": "1.16.4",
+              "gameVersionReleaseDate": "2020-11-02T18:40:51.49Z",
+              "gameVersionName": "1.16.4"
+            }
+          ],
+          "gameVersions": [
+            "1.16.5",
+            "Forge",
+            "1.16.4"
+          ],
+          "fileFingerprint": 87579829,
+          "modId": 282613
+        }
+      },
+      {
+        "name": "Universal Mod Core",
+        "version": "UniversalModCore-1.16.5-forge-1.1.3.jar",
+        "optional": false,
+        "file": "UniversalModCore-1.16.5-forge-1.1.3.jar",
+        "type": "mods",
+        "description": "Core Library for version agnostic Minecraft Mods",
+        "disabled": false,
+        "userAdded": false,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 371784,
+        "curseForgeFileId": 3427254,
+        "curseForgeProject": {
+          "id": 371784,
+          "name": "Universal Mod Core",
+          "authors": [
+            {
+              "id": 277983,
+              "name": "cam72cam",
+              "url": "https://www.curseforge.com/members/36332130-cam72cam?username=cam72cam"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Core Library for version agnostic Minecraft Mods",
+          "categories": [
+            {
+              "name": "API and Library",
+              "slug": "library-api",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/library-api",
+              "dateModified": "2014-05-23T03:21:44.06Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 421,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/36/635351496947765531.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 421,
+          "classId": 6,
+          "slug": "universal-mod-core",
+          "isFeatured": false,
+          "dateModified": "2022-02-20T13:14:28.917Z",
+          "dateCreated": "2020-03-29T13:54:36.39Z",
+          "dateReleased": "2022-02-20T13:13:19.667Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/universal-mod-core",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/TeamOpenIndustry/UniversalModCore/issues",
+            "sourceUrl": "https://github.com/TeamOpenIndustry/UniversalModCore"
+          },
+          "logo": {
+            "id": 259254,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/259/254/256/256/637210868764436330.png",
+            "title": "637210868764436330.png",
+            "url": "https://media.forgecdn.net/avatars/259/254/637210868764436330.png",
+            "modId": 371784
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 3654955
+        },
+        "curseForgeFile": {
+          "id": 3427254,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "UniversalModCore-1.16.5-forge-1.1.3.jar",
+          "fileName": "UniversalModCore-1.16.5-forge-1.1.3.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2021-08-16T13:54:43.543Z",
+          "fileLength": 1108346,
+          "dependencies": [],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 240382813,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2721887417,
+              "name": "cam72cam"
+            },
+            {
+              "fingerprint": 1044895138,
+              "name": "util"
+            },
+            {
+              "fingerprint": 2629803871,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 4015035121,
+              "name": "template"
+            },
+            {
+              "fingerprint": 1160573435,
+              "name": "net"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "eb3d0db7b2aa42653dbbffe926f552540a6f76e8",
+              "algo": 1
+            },
+            {
+              "value": "ba74f428e80112a939e6840f13af63ed",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000016.0000000005",
+              "gameVersion": "1.16.5",
+              "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+              "gameVersionName": "1.16.5"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.16.5",
+            "Forge"
+          ],
+          "fileFingerprint": 4046705346,
+          "modId": 371784
+        }
+      },
+      {
+        "name": "JourneyMap",
+        "version": "journeymap-1.16.5-5.8.5p5",
+        "optional": false,
+        "file": "journeymap-1.16.5-5.8.5p5.jar",
+        "type": "mods",
+        "description": "Real-time mapping in-game or your browser as you explore.",
+        "disabled": false,
+        "userAdded": false,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 32274,
+        "curseForgeFileId": 3841569,
+        "curseForgeProject": {
+          "id": 32274,
+          "name": "JourneyMap",
+          "authors": [
+            {
+              "id": 9317,
+              "name": "techbrew",
+              "url": "https://www.curseforge.com/members/7577665-techbrew?username=techbrew"
+            },
+            {
+              "id": 218528,
+              "name": "Mysticdrew",
+              "url": "https://www.curseforge.com/members/9422784-mysticdrew?username=mysticdrew"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Real-time mapping in-game or your browser as you explore.",
+          "categories": [
+            {
+              "name": "Map and Information",
+              "slug": "map-information",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/map-information",
+              "dateModified": "2014-05-08T17:42:23.74Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 423,
+              "iconUrl": "https://media.forgecdn.net/avatars/6/38/635351497437388438.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 423,
+          "classId": 6,
+          "slug": "journeymap",
+          "isFeatured": false,
+          "dateModified": "2022-09-18T21:08:49.31Z",
+          "dateCreated": "2011-09-19T23:49:04.217Z",
+          "dateReleased": "2022-08-10T00:23:09.303Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/journeymap",
+            "wikiUrl": "http://journeymap.info",
+            "issuesUrl": "https://github.com/TeamJM/journeymap/issues"
+          },
+          "logo": {
+            "id": 9144,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/9/144/256/256/635421614078544069.png",
+            "title": "635421614078544069.png",
+            "url": "https://media.forgecdn.net/avatars/9/144/635421614078544069.png",
+            "modId": 32274
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 3902437
+        },
+        "curseForgeFile": {
+          "id": 3841569,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "journeymap-1.16.5-5.8.5p5",
+          "fileName": "journeymap-1.16.5-5.8.5p5.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2022-06-20T20:48:09.017Z",
+          "fileLength": 6693671,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 226005,
+              "relationType": 4
+            }
+          ],
+          "alternateFileId": 3841571,
+          "modules": [
+            {
+              "fingerprint": 2148863565,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 2908788262,
+              "name": "journeymap"
+            },
+            {
+              "fingerprint": 3964265600,
+              "name": "net"
+            },
+            {
+              "fingerprint": 1149078880,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 3663533361,
+              "name": "journeymap.mixins.json"
+            },
+            {
+              "fingerprint": 3357985534,
+              "name": "journeymap.png"
+            },
+            {
+              "fingerprint": 3771065200,
+              "name": "license.txt"
+            },
+            {
+              "fingerprint": 2930129283,
+              "name": "pack.mcmeta"
+            },
+            {
+              "fingerprint": 3423119192,
+              "name": "potion-effects-shift.js"
+            },
+            {
+              "fingerprint": 3176429306,
+              "name": "render-event-transformer.js"
+            },
+            {
+              "fingerprint": 2351207379,
+              "name": "info"
+            },
+            {
+              "fingerprint": 3411389661,
+              "name": "NOTICE.txt"
+            },
+            {
+              "fingerprint": 1421502970,
+              "name": "about.html"
+            },
+            {
+              "fingerprint": 4183154058,
+              "name": "jetty-dir.css"
+            },
+            {
+              "fingerprint": 3437915845,
+              "name": "journeymap.refmap.json"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "c02a5777619d102ec7495d38b88036037819611b",
+              "algo": 1
+            },
+            {
+              "value": "509dd35762b46c24282f1c1982e79c70",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000016.0000000005",
+              "gameVersion": "1.16.5",
+              "gameVersionReleaseDate": "2021-01-15T14:14:48.91Z",
+              "gameVersionName": "1.16.5"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2019-08-01T00:00:00Z",
+              "gameVersionName": "Forge"
+            }
+          ],
+          "gameVersions": [
+            "1.16.5",
+            "Forge"
+          ],
+          "fileFingerprint": 2223673096,
+          "modId": 32274
+        }
+      }
+    ],
+    "ignoredUpdates": [],
+    "vanillaInstance": false,
+    "lastPlayed": 0,
+    "numPlays": 0
+  },
+  "id": "1.16.5",
+  "complianceLevel": 1,
+  "javaVersion": {
+    "component": "jre-legacy",
+    "majorVersion": 8
+  },
+  "arguments": {
+    "game": [
+      "--username",
+      "${auth_player_name}",
+      "--version",
+      "${version_name}",
+      "--gameDir",
+      "${game_directory}",
+      "--assetsDir",
+      "${assets_root}",
+      "--assetIndex",
+      "${assets_index_name}",
+      "--uuid",
+      "${auth_uuid}",
+      "--accessToken",
+      "${auth_access_token}",
+      "--userType",
+      "${user_type}",
+      "--versionType",
+      "${version_type}",
+      {
+        "rules": [
+          {
+            "action": "allow",
+            "features": {}
+          }
+        ],
+        "value": "--demo"
+      },
+      {
+        "rules": [
+          {
+            "action": "allow",
+            "features": {
+              "has_custom_resolution": "true"
+            }
+          }
+        ],
+        "value": [
+          "--width",
+          "${resolution_width}",
+          "--height",
+          "${resolution_height}"
+        ]
+      },
+      "--launchTarget",
+      "fmlclient",
+      "--fml.forgeVersion",
+      "36.2.34",
+      "--fml.mcVersion",
+      "1.16.5",
+      "--fml.forgeGroup",
+      "net.minecraftforge",
+      "--fml.mcpVersion",
+      "20210115.111550"
+    ],
+    "jvm": [
+      {
+        "rules": [
+          {
+            "action": "allow",
+            "os": {
+              "name": "osx"
+            }
+          }
+        ],
+        "value": [
+          "-XstartOnFirstThread"
+        ]
+      },
+      {
+        "rules": [
+          {
+            "action": "allow",
+            "os": {
+              "name": "windows"
+            }
+          }
+        ],
+        "value": "-XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump"
+      },
+      {
+        "rules": [
+          {
+            "action": "allow",
+            "os": {
+              "name": "windows",
+              "version": "^10\\."
+            }
+          }
+        ],
+        "value": [
+          "-Dos.name=Windows 10",
+          "-Dos.version=10.0"
+        ]
+      },
+      {
+        "rules": [
+          {
+            "action": "allow",
+            "os": {
+              "arch": "x86"
+            }
+          }
+        ],
+        "value": "-Xss1M"
+      },
+      "-Djava.library.path=${natives_directory}",
+      "-Dminecraft.launcher.brand=${launcher_name}",
+      "-Dminecraft.launcher.version=${launcher_version}",
+      "-cp",
+      "${classpath}",
+      "-XX:+IgnoreUnrecognizedVMOptions",
+      "--add-exports=java.base/sun.security.util=ALL-UNNAMED",
+      "--add-exports=jdk.naming.dns/com.sun.jndi.dns=java.naming",
+      "--add-opens=java.base/java.util.jar=ALL-UNNAMED"
+    ]
+  },
+  "type": "release",
+  "time": "2021-01-14T16:05:32+00:00",
+  "releaseTime": "2021-01-14T16:05:32+00:00",
+  "minimumLauncherVersion": "21",
+  "assetIndex": {
+    "id": "1.16",
+    "sha1": "28680197f74e5e1d55054f6a63509c8298d428f9",
+    "size": 295229,
+    "url": "https://launchermeta.mojang.com/v1/packages/28680197f74e5e1d55054f6a63509c8298d428f9/1.16.json",
+    "totalSize": 333881965
+  },
+  "assets": "1.16",
+  "downloads": {
+    "client": {
+      "sha1": "37fd3c903861eeff3bc24b71eed48f828b5269c8",
+      "size": 17547153,
+      "url": "https://launcher.mojang.com/v1/objects/37fd3c903861eeff3bc24b71eed48f828b5269c8/client.jar"
+    },
+    "server": {
+      "sha1": "1b557e7b033b583cd9f66746b7a9ab1ec1673ced",
+      "size": 37962360,
+      "url": "https://launcher.mojang.com/v1/objects/1b557e7b033b583cd9f66746b7a9ab1ec1673ced/server.jar"
+    }
+  },
+  "logging": {
+    "client": {
+      "argument": "-Dlog4j.configurationFile=${path}",
+      "file": {
+        "id": "client-1.12.xml",
+        "sha1": "bd65e7d2e3c237be76cfbef4c2405033d7f91521",
+        "size": 888,
+        "url": "https://launcher.mojang.com/v1/objects/bd65e7d2e3c237be76cfbef4c2405033d7f91521/client-1.12.xml"
+      },
+      "type": "log4j2-xml"
+    }
+  },
+  "libraries": [
+    {
+      "clientreq": true,
+      "serverreq": true,
+      "name": "net.minecraftforge:forge:1.16.5-36.2.34",
+      "downloads": {
+        "artifact": {
+          "path": "net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34.jar",
+          "sha1": "b05f056824252928b59c746f8a28fe2cf36db6c0",
+          "size": 212608,
+          "url": "https://download.nodecdn.net/containers/atl/maven/net/minecraftforge/forge/1.16.5-36.2.34/forge-1.16.5-36.2.34.jar"
+        }
+      }
+    },
+    {
+      "clientreq": true,
+      "serverreq": true,
+      "name": "org.ow2.asm:asm:9.1",
+      "downloads": {
+        "artifact": {
+          "path": "org/ow2/asm/asm/9.1/asm-9.1.jar",
+          "sha1": "a99500cf6eea30535eeac6be73899d048f8d12a8",
+          "size": 121790,
+          "url": "https://download.nodecdn.net/containers/atl/maven/org/ow2/asm/asm/9.1/asm-9.1.jar"
+        }
+      }
+    },
+    {
+      "clientreq": true,
+      "serverreq": true,
+      "name": "org.ow2.asm:asm-commons:9.1",
+      "downloads": {
+        "artifact": {
+          "path": "org/ow2/asm/asm-commons/9.1/asm-commons-9.1.jar",
+          "sha1": "8b971b182eb5cf100b9e8d4119152d83e00e0fdd",
+          "size": 72641,
+          "url": "https://download.nodecdn.net/containers/atl/maven/org/ow2/asm/asm-commons/9.1/asm-commons-9.1.jar"
+        }
+      }
+    },
+    {
+      "clientreq": true,
+      "serverreq": true,
+      "name": "org.ow2.asm:asm-tree:9.1",
+      "downloads": {
+        "artifact": {
+          "path": "org/ow2/asm/asm-tree/9.1/asm-tree-9.1.jar",
+          "sha1": "c333f2a855069cb8eb17a40a3eb8b1b67755d0eb",
+          "size": 52662,
+          "url": "https://download.nodecdn.net/containers/atl/maven/org/ow2/asm/asm-tree/9.1/asm-tree-9.1.jar"
+        }
+      }
+    },
+    {
+      "clientreq": true,
+      "serverreq": true,
+      "name": "org.ow2.asm:asm-util:9.1",
+      "downloads": {
+        "artifact": {
+          "path": "org/ow2/asm/asm-util/9.1/asm-util-9.1.jar",
+          "sha1": "36464a45d871779f3383a8a9aba2b26562a86729",
+          "size": 84679,
+          "url": "https://download.nodecdn.net/containers/atl/maven/org/ow2/asm/asm-util/9.1/asm-util-9.1.jar"
+        }
+      }
+    },
+    {
+      "clientreq": true,
+      "serverreq": true,
+      "name": "org.ow2.asm:asm-analysis:9.1",
+      "downloads": {
+        "artifact": {
+          "path": "org/ow2/asm/asm-analysis/9.1/asm-analysis-9.1.jar",
+          "sha1": "4f61b83b81d8b659958f4bcc48907e93ecea55a0",
+          "size": 34257,
+          "url": "https://download.nodecdn.net/containers/atl/maven/org/ow2/asm/asm-analysis/9.1/asm-analysis-9.1.jar"
+        }
+      }
+    },
+    {
+      "clientreq": true,
+      "serverreq": true,
+      "name": "cpw.mods:modlauncher:8.1.3",
+      "downloads": {
+        "artifact": {
+          "path": "cpw/mods/modlauncher/8.1.3/modlauncher-8.1.3.jar",
+          "sha1": "6d0bfd78e025a87d43985e30907aa9ecbc51b2d6",
+          "size": 126747,
+          "url": "https://download.nodecdn.net/containers/atl/maven/cpw/mods/modlauncher/8.1.3/modlauncher-8.1.3.jar"
+        }
+      }
+    },
+    {
+      "clientreq": true,
+      "serverreq": true,
+      "name": "cpw.mods:grossjava9hacks:1.3.3",
+      "downloads": {
+        "artifact": {
+          "path": "cpw/mods/grossjava9hacks/1.3.3/grossjava9hacks-1.3.3.jar",
+          "sha1": "e49222512ea6cabdd8b49761cef1d5a207b1f0d9",
+          "size": 2113,
+          "url": "https://download.nodecdn.net/containers/atl/maven/cpw/mods/grossjava9hacks/1.3.3/grossjava9hacks-1.3.3.jar"
+        }
+      }
+    },
+    {
+      "clientreq": true,
+      "serverreq": true,
+      "name": "net.minecraftforge:accesstransformers:3.0.1",
+      "downloads": {
+        "artifact": {
+          "path": "net/minecraftforge/accesstransformers/3.0.1/accesstransformers-3.0.1.jar",
+          "sha1": "6d23c1b9cb0607fddc38d09730796f68db96f546",
+          "size": 76586,
+          "url": "https://download.nodecdn.net/containers/atl/maven/net/minecraftforge/accesstransformers/3.0.1/accesstransformers-3.0.1.jar"
+        }
+      }
+    },
+    {
+      "clientreq": true,
+      "serverreq": true,
+      "name": "org.antlr:antlr4-runtime:4.9.1",
+      "downloads": {
+        "artifact": {
+          "path": "org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar",
+          "sha1": "428664f05d2b7f7b7610204b5aa7c1763f62011a",
+          "size": 337868,
+          "url": "https://download.nodecdn.net/containers/atl/maven/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+        }
+      }
+    },
+    {
+      "clientreq": true,
+      "serverreq": true,
+      "name": "net.minecraftforge:eventbus:4.0.0",
+      "downloads": {
+        "artifact": {
+          "path": "net/minecraftforge/eventbus/4.0.0/eventbus-4.0.0.jar",
+          "sha1": "260e34800723e4c098c4e247cf2b900535e01b6d",
+          "size": 42873,
+          "url": "https://download.nodecdn.net/containers/atl/maven/net/minecraftforge/eventbus/4.0.0/eventbus-4.0.0.jar"
+        }
+      }
+    },
+    {
+      "clientreq": true,
+      "serverreq": true,
+      "name": "net.minecraftforge:forgespi:3.2.0",
+      "downloads": {
+        "artifact": {
+          "path": "net/minecraftforge/forgespi/3.2.0/forgespi-3.2.0.jar",
+          "sha1": "0c6ca4e4e4a0343701407c760e642537b613b543",
+          "size": 20172,
+          "url": "https://download.nodecdn.net/containers/atl/maven/net/minecraftforge/forgespi/3.2.0/forgespi-3.2.0.jar"
+        }
+      }
+    },
+    {
+      "clientreq": true,
+      "serverreq": true,
+      "name": "net.minecraftforge:coremods:4.0.6",
+      "downloads": {
+        "artifact": {
+          "path": "net/minecraftforge/coremods/4.0.6/coremods-4.0.6.jar",
+          "sha1": "d6d761379c841e2610abebcbf70ed20b65f728f0",
+          "size": 25453,
+          "url": "https://download.nodecdn.net/containers/atl/maven/net/minecraftforge/coremods/4.0.6/coremods-4.0.6.jar"
+        }
+      }
+    },
+    {
+      "clientreq": true,
+      "serverreq": true,
+      "name": "net.minecraftforge:unsafe:0.2.0",
+      "downloads": {
+        "artifact": {
+          "path": "net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar",
+          "sha1": "54d7a0a5e8fdb71b973025caa46f341ae5904f39",
+          "size": 2834,
+          "url": "https://download.nodecdn.net/containers/atl/maven/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+        }
+      }
+    },
+    {
+      "clientreq": true,
+      "serverreq": true,
+      "name": "com.electronwill.night-config:core:3.6.3",
+      "downloads": {
+        "artifact": {
+          "path": "com/electronwill/night-config/core/3.6.3/core-3.6.3.jar",
+          "sha1": "c601bfeaeb2c0abe7aaa901b0bbe6d1beff49281",
+          "size": 199091,
+          "url": "https://download.nodecdn.net/containers/atl/maven/com/electronwill/night-config/core/3.6.3/core-3.6.3.jar"
+        }
+      }
+    },
+    {
+      "clientreq": true,
+      "serverreq": true,
+      "name": "com.electronwill.night-config:toml:3.6.3",
+      "downloads": {
+        "artifact": {
+          "path": "com/electronwill/night-config/toml/3.6.3/toml-3.6.3.jar",
+          "sha1": "2b05b4d606c517da4d1a7b6d2b97d751c92887d7",
+          "size": 31288,
+          "url": "https://download.nodecdn.net/containers/atl/maven/com/electronwill/night-config/toml/3.6.3/toml-3.6.3.jar"
+        }
+      }
+    },
+    {
+      "clientreq": true,
+      "serverreq": true,
+      "name": "org.jline:jline:3.12.1",
+      "downloads": {
+        "artifact": {
+          "path": "org/jline/jline/3.12.1/jline-3.12.1.jar",
+          "sha1": "de2bd909cb9f8eaa741bd03df4a1bd3f6eb593c7",
+          "size": 732926,
+          "url": "https://download.nodecdn.net/containers/atl/maven/org/jline/jline/3.12.1/jline-3.12.1.jar"
+        }
+      }
+    },
+    {
+      "clientreq": true,
+      "serverreq": true,
+      "name": "org.apache.maven:maven-artifact:3.6.3",
+      "downloads": {
+        "artifact": {
+          "path": "org/apache/maven/maven-artifact/3.6.3/maven-artifact-3.6.3.jar",
+          "sha1": "f8ff8032903882376e8d000c51e3e16d20fc7df7",
+          "size": 57824,
+          "url": "https://download.nodecdn.net/containers/atl/maven/org/apache/maven/maven-artifact/3.6.3/maven-artifact-3.6.3.jar"
+        }
+      }
+    },
+    {
+      "clientreq": true,
+      "serverreq": true,
+      "name": "net.jodah:typetools:0.8.3",
+      "downloads": {
+        "artifact": {
+          "path": "net/jodah/typetools/0.8.3/typetools-0.8.3.jar",
+          "sha1": "98f84f353457629e81cc6827224871b1a8faa7af",
+          "size": 15425,
+          "url": "https://download.nodecdn.net/containers/atl/maven/net/jodah/typetools/0.8.3/typetools-0.8.3.jar"
+        }
+      }
+    },
+    {
+      "clientreq": true,
+      "serverreq": true,
+      "name": "org.apache.logging.log4j:log4j-api:2.16.0",
+      "downloads": {
+        "artifact": {
+          "path": "org/apache/logging/log4j/log4j-api/2.16.0/log4j-api-2.16.0.jar",
+          "sha1": "f821a18687126c2e2f227038f540e7953ad2cc8c",
+          "size": 301892,
+          "url": "https://download.nodecdn.net/containers/atl/maven/org/apache/logging/log4j/log4j-api/2.16.0/log4j-api-2.16.0.jar"
+        }
+      }
+    },
+    {
+      "clientreq": true,
+      "serverreq": true,
+      "name": "org.apache.logging.log4j:log4j-core:2.16.0",
+      "downloads": {
+        "artifact": {
+          "path": "org/apache/logging/log4j/log4j-core/2.16.0/log4j-core-2.16.0.jar",
+          "sha1": "539a445388aee52108700f26d9644989e7916e7c",
+          "size": 1789565,
+          "url": "https://download.nodecdn.net/containers/atl/maven/org/apache/logging/log4j/log4j-core/2.16.0/log4j-core-2.16.0.jar"
+        }
+      }
+    },
+    {
+      "clientreq": true,
+      "serverreq": true,
+      "name": "org.apache.logging.log4j:log4j-slf4j18-impl:2.16.0",
+      "downloads": {
+        "artifact": {
+          "path": "org/apache/logging/log4j/log4j-slf4j18-impl/2.16.0/log4j-slf4j18-impl-2.16.0.jar",
+          "sha1": "0c880a059056df5725f5d8d1035276d9749eba6d",
+          "size": 21249,
+          "url": "https://download.nodecdn.net/containers/atl/maven/org/apache/logging/log4j/log4j-slf4j18-impl/2.16.0/log4j-slf4j18-impl-2.16.0.jar"
+        }
+      }
+    },
+    {
+      "clientreq": true,
+      "serverreq": true,
+      "name": "net.minecrell:terminalconsoleappender:1.2.0",
+      "downloads": {
+        "artifact": {
+          "path": "net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar",
+          "sha1": "96d02cd3b384ff015a8fef4223bcb4ccf1717c95",
+          "size": 15977,
+          "url": "https://download.nodecdn.net/containers/atl/maven/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+        }
+      }
+    },
+    {
+      "clientreq": true,
+      "serverreq": true,
+      "name": "net.sf.jopt-simple:jopt-simple:5.0.4",
+      "downloads": {
+        "artifact": {
+          "path": "net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar",
+          "sha1": "4fdac2fbe92dfad86aa6e9301736f6b4342a3f5c",
+          "size": 78146,
+          "url": "https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
+        }
+      }
+    },
+    {
+      "clientreq": true,
+      "serverreq": true,
+      "name": "org.spongepowered:mixin:0.8.4",
+      "downloads": {
+        "artifact": {
+          "path": "org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar",
+          "sha1": "04ec7d77d9ab32596ca0b78bb123956734767e3a",
+          "size": 1069391,
+          "url": "https://download.nodecdn.net/containers/atl/maven/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar"
+        }
+      }
+    },
+    {
+      "clientreq": true,
+      "serverreq": true,
+      "name": "net.minecraftforge:nashorn-core-compat:15.1.1.1",
+      "downloads": {
+        "artifact": {
+          "path": "net/minecraftforge/nashorn-core-compat/15.1.1.1/nashorn-core-compat-15.1.1.1.jar",
+          "sha1": "1817deb38a5a8811148dca0d23161d92bdbd6184",
+          "size": 2194057,
+          "url": "https://download.nodecdn.net/containers/atl/maven/net/minecraftforge/nashorn-core-compat/15.1.1.1/nashorn-core-compat-15.1.1.1.jar"
+        }
+      }
+    },
+    {
+      "name": "com.mojang:patchy:1.3.9",
+      "downloads": {
+        "artifact": {
+          "path": "com/mojang/patchy/1.3.9/patchy-1.3.9.jar",
+          "sha1": "eb8bb7b66fa0e2152b1b40b3856e82f7619439ee",
+          "size": 23581,
+          "url": "https://libraries.minecraft.net/com/mojang/patchy/1.3.9/patchy-1.3.9.jar"
+        }
+      }
+    },
+    {
+      "name": "oshi-project:oshi-core:1.1",
+      "downloads": {
+        "artifact": {
+          "path": "oshi-project/oshi-core/1.1/oshi-core-1.1.jar",
+          "sha1": "9ddf7b048a8d701be231c0f4f95fd986198fd2d8",
+          "size": 30973,
+          "url": "https://libraries.minecraft.net/oshi-project/oshi-core/1.1/oshi-core-1.1.jar"
+        }
+      }
+    },
+    {
+      "name": "net.java.dev.jna:jna:4.4.0",
+      "downloads": {
+        "artifact": {
+          "path": "net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar",
+          "sha1": "cb208278274bf12ebdb56c61bd7407e6f774d65a",
+          "size": 1091208,
+          "url": "https://libraries.minecraft.net/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar"
+        }
+      }
+    },
+    {
+      "name": "net.java.dev.jna:platform:3.4.0",
+      "downloads": {
+        "artifact": {
+          "path": "net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar",
+          "sha1": "e3f70017be8100d3d6923f50b3d2ee17714e9c13",
+          "size": 913436,
+          "url": "https://libraries.minecraft.net/net/java/dev/jna/platform/3.4.0/platform-3.4.0.jar"
+        }
+      }
+    },
+    {
+      "name": "com.ibm.icu:icu4j:66.1",
+      "downloads": {
+        "artifact": {
+          "path": "com/ibm/icu/icu4j/66.1/icu4j-66.1.jar",
+          "sha1": "72c7519b6d91f7a1f993bd44a99fe95d67211b27",
+          "size": 12935630,
+          "url": "https://libraries.minecraft.net/com/ibm/icu/icu4j/66.1/icu4j-66.1.jar"
+        }
+      }
+    },
+    {
+      "name": "com.mojang:javabridge:1.0.22",
+      "downloads": {
+        "artifact": {
+          "path": "com/mojang/javabridge/1.0.22/javabridge-1.0.22.jar",
+          "sha1": "6aa6453aa99a52a5cd91749da1af6ab70e082ab3",
+          "size": 5111,
+          "url": "https://libraries.minecraft.net/com/mojang/javabridge/1.0.22/javabridge-1.0.22.jar"
+        }
+      }
+    },
+    {
+      "name": "net.sf.jopt-simple:jopt-simple:5.0.3",
+      "downloads": {
+        "artifact": {
+          "path": "net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar",
+          "sha1": "cdd846cfc4e0f7eefafc02c0f5dce32b9303aa2a",
+          "size": 78175,
+          "url": "https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar"
+        }
+      }
+    },
+    {
+      "name": "io.netty:netty-all:4.1.25.Final",
+      "downloads": {
+        "artifact": {
+          "path": "io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final.jar",
+          "sha1": "d0626cd3108294d1d58c05859add27b4ef21f83b",
+          "size": 3823147,
+          "url": "https://libraries.minecraft.net/io/netty/netty-all/4.1.25.Final/netty-all-4.1.25.Final.jar"
+        }
+      }
+    },
+    {
+      "name": "com.google.guava:guava:21.0",
+      "downloads": {
+        "artifact": {
+          "path": "com/google/guava/guava/21.0/guava-21.0.jar",
+          "sha1": "3a3d111be1be1b745edfa7d91678a12d7ed38709",
+          "size": 2521113,
+          "url": "https://libraries.minecraft.net/com/google/guava/guava/21.0/guava-21.0.jar"
+        }
+      }
+    },
+    {
+      "name": "org.apache.commons:commons-lang3:3.5",
+      "downloads": {
+        "artifact": {
+          "path": "org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar",
+          "sha1": "6c6c702c89bfff3cd9e80b04d668c5e190d588c6",
+          "size": 479881,
+          "url": "https://libraries.minecraft.net/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar"
+        }
+      }
+    },
+    {
+      "name": "commons-io:commons-io:2.5",
+      "downloads": {
+        "artifact": {
+          "path": "commons-io/commons-io/2.5/commons-io-2.5.jar",
+          "sha1": "2852e6e05fbb95076fc091f6d1780f1f8fe35e0f",
+          "size": 208700,
+          "url": "https://libraries.minecraft.net/commons-io/commons-io/2.5/commons-io-2.5.jar"
+        }
+      }
+    },
+    {
+      "name": "commons-codec:commons-codec:1.10",
+      "downloads": {
+        "artifact": {
+          "path": "commons-codec/commons-codec/1.10/commons-codec-1.10.jar",
+          "sha1": "4b95f4897fa13f2cd904aee711aeafc0c5295cd8",
+          "size": 284184,
+          "url": "https://libraries.minecraft.net/commons-codec/commons-codec/1.10/commons-codec-1.10.jar"
+        }
+      }
+    },
+    {
+      "name": "net.java.jinput:jinput:2.0.5",
+      "downloads": {
+        "artifact": {
+          "path": "net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar",
+          "sha1": "39c7796b469a600f72380316f6b1f11db6c2c7c4",
+          "size": 208338,
+          "url": "https://libraries.minecraft.net/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar"
+        }
+      }
+    },
+    {
+      "name": "net.java.jutils:jutils:1.0.0",
+      "downloads": {
+        "artifact": {
+          "path": "net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar",
+          "sha1": "e12fe1fda814bd348c1579329c86943d2cd3c6a6",
+          "size": 7508,
+          "url": "https://libraries.minecraft.net/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar"
+        }
+      }
+    },
+    {
+      "name": "com.mojang:brigadier:1.0.17",
+      "downloads": {
+        "artifact": {
+          "path": "com/mojang/brigadier/1.0.17/brigadier-1.0.17.jar",
+          "sha1": "c6b7dc51dd44379cc751b7504816006e9be4b1e6",
+          "size": 77392,
+          "url": "https://libraries.minecraft.net/com/mojang/brigadier/1.0.17/brigadier-1.0.17.jar"
+        }
+      }
+    },
+    {
+      "name": "com.mojang:datafixerupper:4.0.26",
+      "downloads": {
+        "artifact": {
+          "path": "com/mojang/datafixerupper/4.0.26/datafixerupper-4.0.26.jar",
+          "sha1": "ebd6690f33871ccee9b6132c6480668ee2e35020",
+          "size": 673183,
+          "url": "https://libraries.minecraft.net/com/mojang/datafixerupper/4.0.26/datafixerupper-4.0.26.jar"
+        }
+      }
+    },
+    {
+      "name": "com.google.code.gson:gson:2.8.0",
+      "downloads": {
+        "artifact": {
+          "path": "com/google/code/gson/gson/2.8.0/gson-2.8.0.jar",
+          "sha1": "c4ba5371a29ac9b2ad6129b1d39ea38750043eff",
+          "size": 231952,
+          "url": "https://libraries.minecraft.net/com/google/code/gson/gson/2.8.0/gson-2.8.0.jar"
+        }
+      }
+    },
+    {
+      "name": "com.mojang:authlib:2.1.28",
+      "downloads": {
+        "artifact": {
+          "path": "com/mojang/authlib/2.1.28/authlib-2.1.28.jar",
+          "sha1": "ad54da276bf59983d02d5ed16fc14541354c71fd",
+          "size": 76328,
+          "url": "https://libraries.minecraft.net/com/mojang/authlib/2.1.28/authlib-2.1.28.jar"
+        }
+      }
+    },
+    {
+      "name": "org.apache.commons:commons-compress:1.8.1",
+      "downloads": {
+        "artifact": {
+          "path": "org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar",
+          "sha1": "a698750c16740fd5b3871425f4cb3bbaa87f529d",
+          "size": 365552,
+          "url": "https://libraries.minecraft.net/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar"
+        }
+      }
+    },
+    {
+      "name": "org.apache.httpcomponents:httpclient:4.3.3",
+      "downloads": {
+        "artifact": {
+          "path": "org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar",
+          "sha1": "18f4247ff4572a074444572cee34647c43e7c9c7",
+          "size": 589512,
+          "url": "https://libraries.minecraft.net/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar"
+        }
+      }
+    },
+    {
+      "name": "commons-logging:commons-logging:1.1.3",
+      "downloads": {
+        "artifact": {
+          "path": "commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar",
+          "sha1": "f6f66e966c70a83ffbdb6f17a0919eaf7c8aca7f",
+          "size": 62050,
+          "url": "https://libraries.minecraft.net/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar"
+        }
+      }
+    },
+    {
+      "name": "org.apache.httpcomponents:httpcore:4.3.2",
+      "downloads": {
+        "artifact": {
+          "path": "org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar",
+          "sha1": "31fbbff1ddbf98f3aa7377c94d33b0447c646b6e",
+          "size": 282269,
+          "url": "https://libraries.minecraft.net/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar"
+        }
+      }
+    },
+    {
+      "name": "it.unimi.dsi:fastutil:8.2.1",
+      "downloads": {
+        "artifact": {
+          "path": "it/unimi/dsi/fastutil/8.2.1/fastutil-8.2.1.jar",
+          "sha1": "5ad88f325e424f8dbc2be5459e21ea5cab3864e9",
+          "size": 18800417,
+          "url": "https://libraries.minecraft.net/it/unimi/dsi/fastutil/8.2.1/fastutil-8.2.1.jar"
+        }
+      }
+    },
+    {
+      "name": "org.apache.logging.log4j:log4j-api:2.16.0",
+      "downloads": {
+        "artifact": {
+          "path": "org/apache/logging/log4j/log4j-api/2.16.0/log4j-api-2.16.0.jar",
+          "sha1": "f821a18687126c2e2f227038f540e7953ad2cc8c",
+          "size": 301892,
+          "url": "https://download.nodecdn.net/containers/atl/maven/org/apache/logging/log4j/log4j-api/2.16.0/log4j-api-2.16.0.jar"
+        }
+      }
+    },
+    {
+      "name": "org.apache.logging.log4j:log4j-core:2.16.0",
+      "downloads": {
+        "artifact": {
+          "path": "org/apache/logging/log4j/log4j-core/2.16.0/log4j-core-2.16.0.jar",
+          "sha1": "539a445388aee52108700f26d9644989e7916e7c",
+          "size": 1789565,
+          "url": "https://download.nodecdn.net/containers/atl/maven/org/apache/logging/log4j/log4j-core/2.16.0/log4j-core-2.16.0.jar"
+        }
+      }
+    },
+    {
+      "name": "org.lwjgl:lwjgl:3.2.1",
+      "downloads": {
+        "artifact": {
+          "path": "org/lwjgl/lwjgl/3.2.1/lwjgl-3.2.1.jar",
+          "sha1": "2bb514e444994c6fece99a21f76e0c90438e377f",
+          "size": 317748,
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/3.2.1/lwjgl-3.2.1.jar"
+        }
+      },
+      "rules": [
+        {
+          "action": "allow",
+          "os": {
+            "name": "osx"
+          }
+        }
+      ]
+    },
+    {
+      "name": "org.lwjgl:lwjgl:3.2.2",
+      "downloads": {
+        "artifact": {
+          "path": "org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2.jar",
+          "sha1": "8ad6294407e15780b43e84929c40e4c5e997972e",
+          "size": 321900,
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2.jar"
+        }
+      },
+      "rules": [
+        {
+          "action": "allow"
+        },
+        {
+          "action": "disallow",
+          "os": {
+            "name": "osx"
+          }
+        }
+      ]
+    },
+    {
+      "name": "org.lwjgl:lwjgl-jemalloc:3.2.1",
+      "downloads": {
+        "artifact": {
+          "path": "org/lwjgl/lwjgl-jemalloc/3.2.1/lwjgl-jemalloc-3.2.1.jar",
+          "sha1": "7a0c583fcbec32b15784f846df536e1837d83666",
+          "size": 38616,
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.2.1/lwjgl-jemalloc-3.2.1.jar"
+        }
+      },
+      "rules": [
+        {
+          "action": "allow",
+          "os": {
+            "name": "osx"
+          }
+        }
+      ]
+    },
+    {
+      "name": "org.lwjgl:lwjgl-jemalloc:3.2.2",
+      "downloads": {
+        "artifact": {
+          "path": "org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2.jar",
+          "sha1": "ee8e57a79300f78294576d87c4a587f8c99402e2",
+          "size": 34848,
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2.jar"
+        }
+      },
+      "rules": [
+        {
+          "action": "allow"
+        },
+        {
+          "action": "disallow",
+          "os": {
+            "name": "osx"
+          }
+        }
+      ]
+    },
+    {
+      "name": "org.lwjgl:lwjgl-openal:3.2.1",
+      "downloads": {
+        "artifact": {
+          "path": "org/lwjgl/lwjgl-openal/3.2.1/lwjgl-openal-3.2.1.jar",
+          "sha1": "dc7ff2dabb40a141ee9bf2e326d9b1b19f3278fb",
+          "size": 80103,
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.2.1/lwjgl-openal-3.2.1.jar"
+        }
+      },
+      "rules": [
+        {
+          "action": "allow",
+          "os": {
+            "name": "osx"
+          }
+        }
+      ]
+    },
+    {
+      "name": "org.lwjgl:lwjgl-openal:3.2.2",
+      "downloads": {
+        "artifact": {
+          "path": "org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2.jar",
+          "sha1": "2b772a102b0a11ee5f2109a5b136f4dc7c630827",
+          "size": 80012,
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2.jar"
+        }
+      },
+      "rules": [
+        {
+          "action": "allow"
+        },
+        {
+          "action": "disallow",
+          "os": {
+            "name": "osx"
+          }
+        }
+      ]
+    },
+    {
+      "name": "org.lwjgl:lwjgl-opengl:3.2.1",
+      "downloads": {
+        "artifact": {
+          "path": "org/lwjgl/lwjgl-opengl/3.2.1/lwjgl-opengl-3.2.1.jar",
+          "sha1": "57008c2374c5bc434b18adfef3f3653ee450ee18",
+          "size": 931322,
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.2.1/lwjgl-opengl-3.2.1.jar"
+        }
+      },
+      "rules": [
+        {
+          "action": "allow",
+          "os": {
+            "name": "osx"
+          }
+        }
+      ]
+    },
+    {
+      "name": "org.lwjgl:lwjgl-opengl:3.2.2",
+      "downloads": {
+        "artifact": {
+          "path": "org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2.jar",
+          "sha1": "6ac5bb88b44c43ea195a570aab059f63da004cd8",
+          "size": 929780,
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2.jar"
+        }
+      },
+      "rules": [
+        {
+          "action": "allow"
+        },
+        {
+          "action": "disallow",
+          "os": {
+            "name": "osx"
+          }
+        }
+      ]
+    },
+    {
+      "name": "org.lwjgl:lwjgl-glfw:3.2.1",
+      "downloads": {
+        "artifact": {
+          "path": "org/lwjgl/lwjgl-glfw/3.2.1/lwjgl-glfw-3.2.1.jar",
+          "sha1": "027abb7f64894b61cad163791acd8113f0b21296",
+          "size": 116708,
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.2.1/lwjgl-glfw-3.2.1.jar"
+        }
+      },
+      "rules": [
+        {
+          "action": "allow",
+          "os": {
+            "name": "osx"
+          }
+        }
+      ]
+    },
+    {
+      "name": "org.lwjgl:lwjgl-glfw:3.2.2",
+      "downloads": {
+        "artifact": {
+          "path": "org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2.jar",
+          "sha1": "d3ad4df38e400b8afba1de63f84338809399df5b",
+          "size": 108907,
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2.jar"
+        }
+      },
+      "rules": [
+        {
+          "action": "allow"
+        },
+        {
+          "action": "disallow",
+          "os": {
+            "name": "osx"
+          }
+        }
+      ]
+    },
+    {
+      "name": "org.lwjgl:lwjgl-stb:3.2.1",
+      "downloads": {
+        "artifact": {
+          "path": "org/lwjgl/lwjgl-stb/3.2.1/lwjgl-stb-3.2.1.jar",
+          "sha1": "31f5eb5fce3791d58ec898bc5c1867d76d781ba1",
+          "size": 105765,
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.2.1/lwjgl-stb-3.2.1.jar"
+        }
+      },
+      "rules": [
+        {
+          "action": "allow",
+          "os": {
+            "name": "osx"
+          }
+        }
+      ]
+    },
+    {
+      "name": "org.lwjgl:lwjgl-stb:3.2.2",
+      "downloads": {
+        "artifact": {
+          "path": "org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2.jar",
+          "sha1": "3b8e6ebc5851dd3d17e37e5cadce2eff2a429f0f",
+          "size": 104469,
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2.jar"
+        }
+      },
+      "rules": [
+        {
+          "action": "allow"
+        },
+        {
+          "action": "disallow",
+          "os": {
+            "name": "osx"
+          }
+        }
+      ]
+    },
+    {
+      "name": "org.lwjgl:lwjgl-tinyfd:3.2.1",
+      "downloads": {
+        "artifact": {
+          "path": "org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1.jar",
+          "sha1": "259f1dbddb921e27e01b32458d6f584eb8bba13a",
+          "size": 7088,
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1.jar"
+        }
+      },
+      "rules": [
+        {
+          "action": "allow",
+          "os": {
+            "name": "osx"
+          }
+        }
+      ]
+    },
+    {
+      "name": "org.lwjgl:lwjgl-tinyfd:3.2.2",
+      "downloads": {
+        "artifact": {
+          "path": "org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2.jar",
+          "sha1": "fcbe606c8f8da6f8f9a05e2c540eb1ee8632b0e9",
+          "size": 7092,
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2.jar"
+        }
+      },
+      "rules": [
+        {
+          "action": "allow"
+        },
+        {
+          "action": "disallow",
+          "os": {
+            "name": "osx"
+          }
+        }
+      ]
+    },
+    {
+      "name": "org.lwjgl:lwjgl:3.2.1",
+      "downloads": {
+        "artifact": {
+          "path": "org/lwjgl/lwjgl/3.2.1/lwjgl-3.2.1.jar",
+          "sha1": "2bb514e444994c6fece99a21f76e0c90438e377f",
+          "size": 317748,
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/3.2.1/lwjgl-3.2.1.jar"
+        },
+        "classifiers": {
+          "javadoc": {
+            "path": "org/lwjgl/lwjgl/3.2.1/lwjgl-3.2.1-javadoc.jar",
+            "sha1": "1f6b7050737559b775d797c0ea56612b8e373fd6",
+            "size": 1287174,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/3.2.1/lwjgl-3.2.1-javadoc.jar"
+          },
+          "natives-linux": {
+            "path": "org/lwjgl/lwjgl/3.2.1/lwjgl-3.2.1-natives-linux.jar",
+            "sha1": "9bdd47cd63ce102cec837a396c8ded597cb75a66",
+            "size": 87484,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/3.2.1/lwjgl-3.2.1-natives-linux.jar"
+          },
+          "natives-macos": {
+            "path": "org/lwjgl/lwjgl/3.2.1/lwjgl-3.2.1-natives-macos.jar",
+            "sha1": "5a4c271d150906858d475603dcb9479453c60555",
+            "size": 39835,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/3.2.1/lwjgl-3.2.1-natives-macos.jar"
+          },
+          "natives-windows": {
+            "path": "org/lwjgl/lwjgl/3.2.1/lwjgl-3.2.1-natives-windows.jar",
+            "sha1": "e799d06b8969db0610e68776e0eff4b6191098bd",
+            "size": 255871,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/3.2.1/lwjgl-3.2.1-natives-windows.jar"
+          },
+          "sources": {
+            "path": "org/lwjgl/lwjgl/3.2.1/lwjgl-3.2.1-sources.jar",
+            "sha1": "106f90ac41449004a969309488aa6e3a2f7d6731",
+            "size": 255671,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/3.2.1/lwjgl-3.2.1-sources.jar"
+          }
+        }
+      },
+      "natives": {
+        "osx": "natives-macos"
+      },
+      "rules": [
+        {
+          "action": "allow",
+          "os": {
+            "name": "osx"
+          }
+        }
+      ]
+    },
+    {
+      "name": "org.lwjgl:lwjgl:3.2.2",
+      "downloads": {
+        "artifact": {
+          "path": "org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2.jar",
+          "sha1": "8ad6294407e15780b43e84929c40e4c5e997972e",
+          "size": 321900,
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2.jar"
+        },
+        "classifiers": {
+          "natives-linux": {
+            "path": "org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2-natives-linux.jar",
+            "sha1": "ae7976827ca2a3741f6b9a843a89bacd637af350",
+            "size": 124776,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2-natives-linux.jar"
+          },
+          "natives-macos": {
+            "path": "org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2-natives-macos.jar",
+            "sha1": "bbfb75693bdb714c0c69c2c9f9be73d259b43b62",
+            "size": 48462,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2-natives-macos.jar"
+          },
+          "natives-windows": {
+            "path": "org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2-natives-windows.jar",
+            "sha1": "05359f3aa50d36352815fc662ea73e1c00d22170",
+            "size": 279593,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl/3.2.2/lwjgl-3.2.2-natives-windows.jar"
+          }
+        }
+      },
+      "natives": {
+        "linux": "natives-linux",
+        "windows": "natives-windows"
+      },
+      "rules": [
+        {
+          "action": "allow"
+        },
+        {
+          "action": "disallow",
+          "os": {
+            "name": "osx"
+          }
+        }
+      ]
+    },
+    {
+      "name": "org.lwjgl:lwjgl-jemalloc:3.2.1",
+      "downloads": {
+        "artifact": {
+          "path": "org/lwjgl/lwjgl-jemalloc/3.2.1/lwjgl-jemalloc-3.2.1.jar",
+          "sha1": "7a0c583fcbec32b15784f846df536e1837d83666",
+          "size": 38616,
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.2.1/lwjgl-jemalloc-3.2.1.jar"
+        },
+        "classifiers": {
+          "javadoc": {
+            "path": "org/lwjgl/lwjgl-jemalloc/3.2.1/lwjgl-jemalloc-3.2.1-javadoc.jar",
+            "sha1": "04f6897be1e2d68bff5ec5e91a2b96e32f084c09",
+            "size": 461041,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.2.1/lwjgl-jemalloc-3.2.1-javadoc.jar"
+          },
+          "natives-linux": {
+            "path": "org/lwjgl/lwjgl-jemalloc/3.2.1/lwjgl-jemalloc-3.2.1-natives-linux.jar",
+            "sha1": "5536616b558cea2fea6330ca682fd7c733db9c43",
+            "size": 156057,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.2.1/lwjgl-jemalloc-3.2.1-natives-linux.jar"
+          },
+          "natives-macos": {
+            "path": "org/lwjgl/lwjgl-jemalloc/3.2.1/lwjgl-jemalloc-3.2.1-natives-macos.jar",
+            "sha1": "439ab9d0264167a949cc7bcce673704322baaf50",
+            "size": 117001,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.2.1/lwjgl-jemalloc-3.2.1-natives-macos.jar"
+          },
+          "natives-windows": {
+            "path": "org/lwjgl/lwjgl-jemalloc/3.2.1/lwjgl-jemalloc-3.2.1-natives-windows.jar",
+            "sha1": "3c869b3d7638c800b7039cd859d064658643ad6e",
+            "size": 218136,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.2.1/lwjgl-jemalloc-3.2.1-natives-windows.jar"
+          },
+          "sources": {
+            "path": "org/lwjgl/lwjgl-jemalloc/3.2.1/lwjgl-jemalloc-3.2.1-sources.jar",
+            "sha1": "4450dca46228c02c51bb9bbda70e7cfc3154296d",
+            "size": 31279,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.2.1/lwjgl-jemalloc-3.2.1-sources.jar"
+          }
+        }
+      },
+      "natives": {
+        "osx": "natives-macos"
+      },
+      "rules": [
+        {
+          "action": "allow",
+          "os": {
+            "name": "osx"
+          }
+        }
+      ]
+    },
+    {
+      "name": "org.lwjgl:lwjgl-jemalloc:3.2.2",
+      "downloads": {
+        "artifact": {
+          "path": "org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2.jar",
+          "sha1": "ee8e57a79300f78294576d87c4a587f8c99402e2",
+          "size": 34848,
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2.jar"
+        },
+        "classifiers": {
+          "natives-linux": {
+            "path": "org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2-natives-linux.jar",
+            "sha1": "268c08a150347e04e44ba56e359d62c9b78669df",
+            "size": 156173,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2-natives-linux.jar"
+          },
+          "natives-macos": {
+            "path": "org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2-natives-macos.jar",
+            "sha1": "805f5a10465375ba034b27b72331912fd2846690",
+            "size": 117127,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2-natives-macos.jar"
+          },
+          "natives-windows": {
+            "path": "org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2-natives-windows.jar",
+            "sha1": "338b25b99da3ba5f441f6492f2ce2a9c608860ed",
+            "size": 220623,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-jemalloc/3.2.2/lwjgl-jemalloc-3.2.2-natives-windows.jar"
+          }
+        }
+      },
+      "natives": {
+        "linux": "natives-linux",
+        "windows": "natives-windows"
+      },
+      "rules": [
+        {
+          "action": "allow"
+        },
+        {
+          "action": "disallow",
+          "os": {
+            "name": "osx"
+          }
+        }
+      ]
+    },
+    {
+      "name": "org.lwjgl:lwjgl-openal:3.2.1",
+      "downloads": {
+        "artifact": {
+          "path": "org/lwjgl/lwjgl-openal/3.2.1/lwjgl-openal-3.2.1.jar",
+          "sha1": "dc7ff2dabb40a141ee9bf2e326d9b1b19f3278fb",
+          "size": 80103,
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.2.1/lwjgl-openal-3.2.1.jar"
+        },
+        "classifiers": {
+          "javadoc": {
+            "path": "org/lwjgl/lwjgl-openal/3.2.1/lwjgl-openal-3.2.1-javadoc.jar",
+            "sha1": "95752f443686da1b3443e397dc83e730e1907a1e",
+            "size": 617869,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.2.1/lwjgl-openal-3.2.1-javadoc.jar"
+          },
+          "natives-linux": {
+            "path": "org/lwjgl/lwjgl-openal/3.2.1/lwjgl-openal-3.2.1-natives-linux.jar",
+            "sha1": "bcd4be67863dd908f696f628c3ca9f6eb9ae5152",
+            "size": 590716,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.2.1/lwjgl-openal-3.2.1-natives-linux.jar"
+          },
+          "natives-macos": {
+            "path": "org/lwjgl/lwjgl-openal/3.2.1/lwjgl-openal-3.2.1-natives-macos.jar",
+            "sha1": "9357ebfc82a0d6f64e17093dd963219367cd6fa2",
+            "size": 528004,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.2.1/lwjgl-openal-3.2.1-natives-macos.jar"
+          },
+          "natives-windows": {
+            "path": "org/lwjgl/lwjgl-openal/3.2.1/lwjgl-openal-3.2.1-natives-windows.jar",
+            "sha1": "92fb931e65c637cea209ad5c3ffebd1b325ed41d",
+            "size": 1310083,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.2.1/lwjgl-openal-3.2.1-natives-windows.jar"
+          },
+          "sources": {
+            "path": "org/lwjgl/lwjgl-openal/3.2.1/lwjgl-openal-3.2.1-sources.jar",
+            "sha1": "8fe3d6e6353685164b1eb3a22980aaa1115d4a32",
+            "size": 78379,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.2.1/lwjgl-openal-3.2.1-sources.jar"
+          }
+        }
+      },
+      "natives": {
+        "osx": "natives-macos"
+      },
+      "rules": [
+        {
+          "action": "allow",
+          "os": {
+            "name": "osx"
+          }
+        }
+      ]
+    },
+    {
+      "name": "org.lwjgl:lwjgl-openal:3.2.2",
+      "downloads": {
+        "artifact": {
+          "path": "org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2.jar",
+          "sha1": "2b772a102b0a11ee5f2109a5b136f4dc7c630827",
+          "size": 80012,
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2.jar"
+        },
+        "classifiers": {
+          "natives-linux": {
+            "path": "org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2-natives-linux.jar",
+            "sha1": "0364f9f5c3947393083ab5f37a571f5603aadd0b",
+            "size": 590997,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2-natives-linux.jar"
+          },
+          "natives-macos": {
+            "path": "org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2-natives-macos.jar",
+            "sha1": "a97b6345d5a9ddf889e262bd7ad8eed43b1bb063",
+            "size": 528006,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2-natives-macos.jar"
+          },
+          "natives-windows": {
+            "path": "org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2-natives-windows.jar",
+            "sha1": "ec20a7d42a2438528fca87e60b1705f1e2339ddb",
+            "size": 1310102,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-openal/3.2.2/lwjgl-openal-3.2.2-natives-windows.jar"
+          }
+        }
+      },
+      "natives": {
+        "linux": "natives-linux",
+        "windows": "natives-windows"
+      },
+      "rules": [
+        {
+          "action": "allow"
+        },
+        {
+          "action": "disallow",
+          "os": {
+            "name": "osx"
+          }
+        }
+      ]
+    },
+    {
+      "name": "org.lwjgl:lwjgl-opengl:3.2.1",
+      "downloads": {
+        "artifact": {
+          "path": "org/lwjgl/lwjgl-opengl/3.2.1/lwjgl-opengl-3.2.1.jar",
+          "sha1": "57008c2374c5bc434b18adfef3f3653ee450ee18",
+          "size": 931322,
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.2.1/lwjgl-opengl-3.2.1.jar"
+        },
+        "classifiers": {
+          "javadoc": {
+            "path": "org/lwjgl/lwjgl-opengl/3.2.1/lwjgl-opengl-3.2.1-javadoc.jar",
+            "sha1": "e25fc8cbcbee68182a6b7f13ad71b1f0961005ad",
+            "size": 4307561,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.2.1/lwjgl-opengl-3.2.1-javadoc.jar"
+          },
+          "natives-linux": {
+            "path": "org/lwjgl/lwjgl-opengl/3.2.1/lwjgl-opengl-3.2.1-natives-linux.jar",
+            "sha1": "c43bb08ed7dcf1a6d344803e464148b3b14dd274",
+            "size": 77401,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.2.1/lwjgl-opengl-3.2.1-natives-linux.jar"
+          },
+          "natives-macos": {
+            "path": "org/lwjgl/lwjgl-opengl/3.2.1/lwjgl-opengl-3.2.1-natives-macos.jar",
+            "sha1": "dca9ad9e59a87172144d531e08ef7f6988073db0",
+            "size": 38998,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.2.1/lwjgl-opengl-3.2.1-natives-macos.jar"
+          },
+          "natives-windows": {
+            "path": "org/lwjgl/lwjgl-opengl/3.2.1/lwjgl-opengl-3.2.1-natives-windows.jar",
+            "sha1": "80954961b31084d7b4f2f041d6b5a799a774c880",
+            "size": 170804,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.2.1/lwjgl-opengl-3.2.1-natives-windows.jar"
+          },
+          "sources": {
+            "path": "org/lwjgl/lwjgl-opengl/3.2.1/lwjgl-opengl-3.2.1-sources.jar",
+            "sha1": "47930ffbef53c0f45c7e35c01b1c6ad5b2205809",
+            "size": 1251582,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.2.1/lwjgl-opengl-3.2.1-sources.jar"
+          }
+        }
+      },
+      "natives": {
+        "osx": "natives-macos"
+      },
+      "rules": [
+        {
+          "action": "allow",
+          "os": {
+            "name": "osx"
+          }
+        }
+      ]
+    },
+    {
+      "name": "org.lwjgl:lwjgl-opengl:3.2.2",
+      "downloads": {
+        "artifact": {
+          "path": "org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2.jar",
+          "sha1": "6ac5bb88b44c43ea195a570aab059f63da004cd8",
+          "size": 929780,
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2.jar"
+        },
+        "classifiers": {
+          "natives-linux": {
+            "path": "org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2-natives-linux.jar",
+            "sha1": "338d33387919cb3f4cdba143c2b738a71ccfda60",
+            "size": 77392,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2-natives-linux.jar"
+          },
+          "natives-macos": {
+            "path": "org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2-natives-macos.jar",
+            "sha1": "cf4f43e69ee70d8ebfbb6ba93dec9016339e4fdc",
+            "size": 38989,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2-natives-macos.jar"
+          },
+          "natives-windows": {
+            "path": "org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2-natives-windows.jar",
+            "sha1": "d8dcdc91066cae2d2d8279cb4a9f9f05d9525826",
+            "size": 170798,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-opengl/3.2.2/lwjgl-opengl-3.2.2-natives-windows.jar"
+          }
+        }
+      },
+      "natives": {
+        "linux": "natives-linux",
+        "windows": "natives-windows"
+      },
+      "rules": [
+        {
+          "action": "allow"
+        },
+        {
+          "action": "disallow",
+          "os": {
+            "name": "osx"
+          }
+        }
+      ]
+    },
+    {
+      "name": "org.lwjgl:lwjgl-glfw:3.2.1",
+      "downloads": {
+        "artifact": {
+          "path": "org/lwjgl/lwjgl-glfw/3.2.1/lwjgl-glfw-3.2.1.jar",
+          "sha1": "027abb7f64894b61cad163791acd8113f0b21296",
+          "size": 116708,
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.2.1/lwjgl-glfw-3.2.1.jar"
+        },
+        "classifiers": {
+          "javadoc": {
+            "path": "org/lwjgl/lwjgl-glfw/3.2.1/lwjgl-glfw-3.2.1-javadoc.jar",
+            "sha1": "81482a14b617e4fb0c7de69b3e06ef2e28ef894f",
+            "size": 690774,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.2.1/lwjgl-glfw-3.2.1-javadoc.jar"
+          },
+          "natives-linux": {
+            "path": "org/lwjgl/lwjgl-glfw/3.2.1/lwjgl-glfw-3.2.1-natives-linux.jar",
+            "sha1": "5a2fb27f9e12a34ecabf6f6a7606c61849e347ee",
+            "size": 157431,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.2.1/lwjgl-glfw-3.2.1-natives-linux.jar"
+          },
+          "natives-macos": {
+            "path": "org/lwjgl/lwjgl-glfw/3.2.1/lwjgl-glfw-3.2.1-natives-macos.jar",
+            "sha1": "72fe6dab6110a5a1cd4833f11840eef7b2eadce5",
+            "size": 64724,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.2.1/lwjgl-glfw-3.2.1-natives-macos.jar"
+          },
+          "natives-windows": {
+            "path": "org/lwjgl/lwjgl-glfw/3.2.1/lwjgl-glfw-3.2.1-natives-windows.jar",
+            "sha1": "00def7c58ad2e1cb258d6d73be181ffab8ef8bd5",
+            "size": 265304,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.2.1/lwjgl-glfw-3.2.1-natives-windows.jar"
+          },
+          "sources": {
+            "path": "org/lwjgl/lwjgl-glfw/3.2.1/lwjgl-glfw-3.2.1-sources.jar",
+            "sha1": "4c56ae817da75996b19601c87d7e759b846c3902",
+            "size": 101885,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.2.1/lwjgl-glfw-3.2.1-sources.jar"
+          }
+        }
+      },
+      "natives": {
+        "osx": "natives-macos"
+      },
+      "rules": [
+        {
+          "action": "allow",
+          "os": {
+            "name": "osx"
+          }
+        }
+      ]
+    },
+    {
+      "name": "org.lwjgl:lwjgl-glfw:3.2.2",
+      "downloads": {
+        "artifact": {
+          "path": "org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2.jar",
+          "sha1": "d3ad4df38e400b8afba1de63f84338809399df5b",
+          "size": 108907,
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2.jar"
+        },
+        "classifiers": {
+          "natives-linux": {
+            "path": "org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2-natives-linux.jar",
+            "sha1": "0957733f26a6661d4883da0335f7ef46d3bbbd7d",
+            "size": 159198,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2-natives-linux.jar"
+          },
+          "natives-macos": {
+            "path": "org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2-natives-macos.jar",
+            "sha1": "98f745038d17ac3192fcd01dc44126b03ec1570d",
+            "size": 67311,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2-natives-macos.jar"
+          },
+          "natives-windows": {
+            "path": "org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2-natives-windows.jar",
+            "sha1": "dc6826d636bf796b33a49038c354210e661bfc17",
+            "size": 266648,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-glfw/3.2.2/lwjgl-glfw-3.2.2-natives-windows.jar"
+          }
+        }
+      },
+      "natives": {
+        "linux": "natives-linux",
+        "windows": "natives-windows"
+      },
+      "rules": [
+        {
+          "action": "allow"
+        },
+        {
+          "action": "disallow",
+          "os": {
+            "name": "osx"
+          }
+        }
+      ]
+    },
+    {
+      "name": "org.lwjgl:lwjgl-stb:3.2.1",
+      "downloads": {
+        "artifact": {
+          "path": "org/lwjgl/lwjgl-stb/3.2.1/lwjgl-stb-3.2.1.jar",
+          "sha1": "31f5eb5fce3791d58ec898bc5c1867d76d781ba1",
+          "size": 105765,
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.2.1/lwjgl-stb-3.2.1.jar"
+        },
+        "classifiers": {
+          "javadoc": {
+            "path": "org/lwjgl/lwjgl-stb/3.2.1/lwjgl-stb-3.2.1-javadoc.jar",
+            "sha1": "524d79537f840d6cfe50e030d24413933f0d464b",
+            "size": 684972,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.2.1/lwjgl-stb-3.2.1-javadoc.jar"
+          },
+          "natives-linux": {
+            "path": "org/lwjgl/lwjgl-stb/3.2.1/lwjgl-stb-3.2.1-natives-linux.jar",
+            "sha1": "66e01b8036258619332cb452b970ca0a52db1a87",
+            "size": 197208,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.2.1/lwjgl-stb-3.2.1-natives-linux.jar"
+          },
+          "natives-macos": {
+            "path": "org/lwjgl/lwjgl-stb/3.2.1/lwjgl-stb-3.2.1-natives-macos.jar",
+            "sha1": "1f5615c952451c30afafba4a6e3ba4e1cd9e7f5c",
+            "size": 192364,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.2.1/lwjgl-stb-3.2.1-natives-macos.jar"
+          },
+          "natives-windows": {
+            "path": "org/lwjgl/lwjgl-stb/3.2.1/lwjgl-stb-3.2.1-natives-windows.jar",
+            "sha1": "d100bfd2b0d03223a043cfcb64a2dfd2bb7f4c61",
+            "size": 454473,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.2.1/lwjgl-stb-3.2.1-natives-windows.jar"
+          },
+          "sources": {
+            "path": "org/lwjgl/lwjgl-stb/3.2.1/lwjgl-stb-3.2.1-sources.jar",
+            "sha1": "50ac43d4c6ea5846f354f9576134c0f9264345c2",
+            "size": 96479,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.2.1/lwjgl-stb-3.2.1-sources.jar"
+          }
+        }
+      },
+      "natives": {
+        "osx": "natives-macos"
+      },
+      "rules": [
+        {
+          "action": "allow",
+          "os": {
+            "name": "osx"
+          }
+        }
+      ]
+    },
+    {
+      "name": "org.lwjgl:lwjgl-tinyfd:3.2.2",
+      "downloads": {
+        "artifact": {
+          "path": "org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2.jar",
+          "sha1": "fcbe606c8f8da6f8f9a05e2c540eb1ee8632b0e9",
+          "size": 7092,
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2.jar"
+        },
+        "classifiers": {
+          "javadoc": {
+            "path": "org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2-javadoc.jar",
+            "sha1": "ba657a222ee267b75fa81ae5ab29ae29b50f725f",
+            "size": 368913,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2-javadoc.jar"
+          },
+          "natives-linux": {
+            "path": "org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2-natives-linux.jar",
+            "sha1": "39e35b161c130635d9c8918ce04e887a30c5b687",
+            "size": 38804,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2-natives-linux.jar"
+          },
+          "natives-macos": {
+            "path": "org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2-natives-macos.jar",
+            "sha1": "46d0798228b8a28e857a2a0f02310fd6ba2a4eab",
+            "size": 42136,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2-natives-macos.jar"
+          },
+          "natives-windows": {
+            "path": "org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2-natives-windows.jar",
+            "sha1": "e9115958773644e863332a6a06488d26f9e1fc9f",
+            "size": 208314,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2-natives-windows.jar"
+          },
+          "sources": {
+            "path": "org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2-sources.jar",
+            "sha1": "2fe76dcf2ca02ae0e64ac7c69eb251c09df0e922",
+            "size": 5034,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.2.2/lwjgl-tinyfd-3.2.2-sources.jar"
+          }
+        }
+      },
+      "natives": {
+        "linux": "natives-linux",
+        "windows": "natives-windows"
+      },
+      "rules": [
+        {
+          "action": "allow"
+        },
+        {
+          "action": "disallow",
+          "os": {
+            "name": "osx"
+          }
+        }
+      ]
+    },
+    {
+      "name": "org.lwjgl:lwjgl-tinyfd:3.2.1",
+      "downloads": {
+        "artifact": {
+          "path": "org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1.jar",
+          "sha1": "259f1dbddb921e27e01b32458d6f584eb8bba13a",
+          "size": 7088,
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1.jar"
+        },
+        "classifiers": {
+          "javadoc": {
+            "path": "org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1-javadoc.jar",
+            "sha1": "0a85d995178cdab6b94d9a172dd9e7d2a0d70cfb",
+            "size": 368913,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1-javadoc.jar"
+          },
+          "natives-linux": {
+            "path": "org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1-natives-linux.jar",
+            "sha1": "4ad49108397322596d7b85c2c687e5de6ee52157",
+            "size": 38192,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1-natives-linux.jar"
+          },
+          "natives-macos": {
+            "path": "org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1-natives-macos.jar",
+            "sha1": "759c2fd9cc5c6ce0b5b7af77ac8200483b7fb660",
+            "size": 41962,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1-natives-macos.jar"
+          },
+          "natives-windows": {
+            "path": "org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1-natives-windows.jar",
+            "sha1": "85750d2ca022852e15f58c0b94b3d1d4e7f0ba52",
+            "size": 207577,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1-natives-windows.jar"
+          },
+          "sources": {
+            "path": "org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1-sources.jar",
+            "sha1": "c375699fd794c4c87d935e0f9a84e7d80d0de77e",
+            "size": 5034,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-tinyfd/3.2.1/lwjgl-tinyfd-3.2.1-sources.jar"
+          }
+        }
+      },
+      "natives": {
+        "osx": "natives-macos"
+      },
+      "rules": [
+        {
+          "action": "allow",
+          "os": {
+            "name": "osx"
+          }
+        }
+      ]
+    },
+    {
+      "name": "org.lwjgl:lwjgl-stb:3.2.2",
+      "downloads": {
+        "artifact": {
+          "path": "org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2.jar",
+          "sha1": "3b8e6ebc5851dd3d17e37e5cadce2eff2a429f0f",
+          "size": 104469,
+          "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2.jar"
+        },
+        "classifiers": {
+          "natives-linux": {
+            "path": "org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2-natives-linux.jar",
+            "sha1": "172c52e586fecf43f759bc4f70a778c01f6fdcc1",
+            "size": 203476,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2-natives-linux.jar"
+          },
+          "natives-macos": {
+            "path": "org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2-natives-macos.jar",
+            "sha1": "ee059b129b09fdecbd8595273926ae930bf5a5d7",
+            "size": 196796,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2-natives-macos.jar"
+          },
+          "natives-windows": {
+            "path": "org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2-natives-windows.jar",
+            "sha1": "811f705cbb29e8ae8d60bdf8fdd38c0c123ad3ef",
+            "size": 465810,
+            "url": "https://libraries.minecraft.net/org/lwjgl/lwjgl-stb/3.2.2/lwjgl-stb-3.2.2-natives-windows.jar"
+          }
+        }
+      },
+      "natives": {
+        "linux": "natives-linux",
+        "windows": "natives-windows"
+      },
+      "rules": [
+        {
+          "action": "allow"
+        },
+        {
+          "action": "disallow",
+          "os": {
+            "name": "osx"
+          }
+        }
+      ]
+    },
+    {
+      "name": "com.mojang:text2speech:1.11.3",
+      "downloads": {
+        "artifact": {
+          "path": "com/mojang/text2speech/1.11.3/text2speech-1.11.3.jar",
+          "sha1": "f378f889797edd7df8d32272c06ca80a1b6b0f58",
+          "size": 13164,
+          "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.11.3/text2speech-1.11.3.jar"
+        }
+      }
+    },
+    {
+      "name": "com.mojang:text2speech:1.11.3",
+      "downloads": {
+        "artifact": {
+          "path": "com/mojang/text2speech/1.11.3/text2speech-1.11.3.jar",
+          "sha1": "f378f889797edd7df8d32272c06ca80a1b6b0f58",
+          "size": 13164,
+          "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.11.3/text2speech-1.11.3.jar"
+        },
+        "classifiers": {
+          "natives-linux": {
+            "path": "com/mojang/text2speech/1.11.3/text2speech-1.11.3-natives-linux.jar",
+            "sha1": "ac641755a2a841d1fca9e660194f42523ee5cfe0",
+            "size": 7833,
+            "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.11.3/text2speech-1.11.3-natives-linux.jar"
+          },
+          "natives-windows": {
+            "path": "com/mojang/text2speech/1.11.3/text2speech-1.11.3-natives-windows.jar",
+            "sha1": "c0b242c0091be5acbf303263c7eeeaedd70544c7",
+            "size": 81379,
+            "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.11.3/text2speech-1.11.3-natives-windows.jar"
+          },
+          "sources": {
+            "path": "com/mojang/text2speech/1.11.3/text2speech-1.11.3-sources.jar",
+            "sha1": "772a37dd77417571e6f119a8d306f0c14c2ee410",
+            "size": 5332,
+            "url": "https://libraries.minecraft.net/com/mojang/text2speech/1.11.3/text2speech-1.11.3-sources.jar"
+          }
+        }
+      },
+      "natives": {
+        "linux": "natives-linux",
+        "windows": "natives-windows"
+      },
+      "extract": {
+        "exclude": [
+          "META-INF/"
+        ]
+      }
+    },
+    {
+      "name": "ca.weblite:java-objc-bridge:1.0.0",
+      "downloads": {
+        "artifact": {
+          "path": "ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0.jar",
+          "sha1": "6ef160c3133a78de015830860197602ca1c855d3",
+          "size": 40502,
+          "url": "https://libraries.minecraft.net/ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0.jar"
+        },
+        "classifiers": {
+          "javadoc": {
+            "path": "ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0-javadoc.jar",
+            "sha1": "fb0092f22cb4fe8e631452f577b7a238778abf2a",
+            "size": 174060,
+            "url": "https://libraries.minecraft.net/ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0-javadoc.jar"
+          },
+          "natives-osx": {
+            "path": "ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0-natives-osx.jar",
+            "sha1": "08befab4894d55875f33c3d300f4f71e6e828f64",
+            "size": 5629,
+            "url": "https://libraries.minecraft.net/ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0-natives-osx.jar"
+          },
+          "sources": {
+            "path": "ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0-sources.jar",
+            "sha1": "865837a198189aee737019561ece842827f24278",
+            "size": 43283,
+            "url": "https://libraries.minecraft.net/ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0-sources.jar"
+          }
+        }
+      },
+      "natives": {
+        "osx": "natives-osx"
+      },
+      "rules": [
+        {
+          "action": "allow",
+          "os": {
+            "name": "osx"
+          }
+        }
+      ],
+      "extract": {
+        "exclude": [
+          "META-INF/"
+        ]
+      }
+    },
+    {
+      "name": "ca.weblite:java-objc-bridge:1.0.0",
+      "downloads": {
+        "artifact": {
+          "path": "ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0.jar",
+          "sha1": "6ef160c3133a78de015830860197602ca1c855d3",
+          "size": 40502,
+          "url": "https://libraries.minecraft.net/ca/weblite/java-objc-bridge/1.0.0/java-objc-bridge-1.0.0.jar"
+        }
+      },
+      "rules": [
+        {
+          "action": "allow",
+          "os": {
+            "name": "osx"
+          }
+        }
+      ]
+    }
+  ],
+  "mainClass": "cpw.mods.modlauncher.Launcher"
+}
